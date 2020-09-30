@@ -113,12 +113,17 @@ for ix, row in df_api.iterrows():
     print('**************************************')
 
 def prep_for_gensim(list_of_terms, some_model):
+    # replace space with underscore
     new_terms = [convert_to_undersc(elem) for elem in list_of_terms]
+    # check if each element in the list is in the model
     is_in = [elem for elem in new_terms if elem in some_model]
+    # only return the element in the model
     return is_in
 
 for k,v in top_terms.items():
+    # check if the top terms for each document are in the gensim model
     new_top_terms = prep_for_gensim(v, model)
+    # only retains the ones in the model
     top_terms[k] = new_top_terms
     print(k, new_top_terms)
 

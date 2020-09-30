@@ -7,7 +7,8 @@ Created on Sun Aug  4 14:48:20 2019
 """
 
 from sklearn.cross_validation import StratifiedShuffleSplit
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, classification_report, confusion_matrix
+from sklearn.metrics import accuracy_score, f1_score, precision_score
+from sklearn.metrics import recall_score, classification_report, confusion_matrix
 
 predictions = clf3.predict(balanced_sample_matrix.toarray())
 
