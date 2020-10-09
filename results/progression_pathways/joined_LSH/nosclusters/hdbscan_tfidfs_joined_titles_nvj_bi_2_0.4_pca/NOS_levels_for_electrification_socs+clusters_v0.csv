@@ -1,0 +1,148 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,32408.0,Assist in preventative and corrective maintenance of traction cabling systems;carry out maintenance on electrification and plant equipment and components;carry out maintenance on electrification and plant assets;carry out preventative and corrective maintenance of traction cabling systems ;carry out installation of electrification and plant equipment and components,"['pplreep02  carry out maintenance on electrification and plant assets', 'pplreep04  assist in preventative and corrective maintenance of traction cabling systems', 'pplreep01  carry out maintenance on electrification and plant equipment and components', 'pplreep06  carry out installation of electrification and plant equipment and components', 'pplreep05  carry out preventative and corrective maintenance of traction cabling systems']","Mechanical engineering
+ Forklift operation
+ Preventive maintenance
+ Predictive preventative maintenance
+ Communication skills
+ Hoisting equipment
+ Lifting equipment
+ Hydraulics
+ Cleaning
+ Maintenance scheduling","Mechanical engineer
+ Maintenance engineer
+ Chief engineer
+ Workshop engineer
+ Lead engineer
+ Mechanical design engineer
+ Design engineer
+ Engineer
+ Project engineer
+ Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(electrification, 0.369)
+ (electrification plant, 0.369)
+ (maintenance, 0.296)
+ (plant, 0.279)
+ (cable, 0.263)
+ (maintenance traction, 0.257)
+ (carry, 0.251)
+ (preventative, 0.251)
+ (equipment component, 0.211)
+ (plant equipment, 0.204)","Counter({'Senior-level': 743, 'Mid-level': 624, 'Entry-level': 93})","Counter({'Pregraduate': 1183, 'Graduate': 277})"
+3,Pregraduate,Senior-level,43312.0,"Contribute to safe working practices in the rail engineering industry
+ Transfer responsibility of electrification and plant equipment and components
+ Assist in preparing resources for electrification and plant engineering activities
+ Carry out technical assessment of electrification and plant
+ Isolate and earth contact systems to meet defined isolation requirements in the rail engineering industry","pplrec10
+ pplreep09  transfer responsibility of electrification and plant equipment and components
+ pplreep10  assist in preparing resources for electrification and plant engineering activities
+ pplreep13  carry out technical assessment of electrification and plant
+ pplreep15  isolate and earth contact systems to meet defined isolation requirements in the rail engineering industry","Planning
+ Organisational skills
+ Teamwork collaboration
+ Communication skills
+ Leadership
+ Budgeting
+ Quality management
+ Project management
+ Writing
+ Mechanical engineering","Mechanical engineer
+ Mechanical project engineer
+ Lead engineer
+ Chief engineer
+ Product assurance engineer
+ Maintenance engineer
+ Engineer
+ Training solutions engineer
+ Mechanical design engineer
+ Principal engineer",['Mechanical engineers'],"['Employee development', 'Solar and wind energy']","(electrification plant, 0.344)
+ (electrification, 0.344)
+ (plant, 0.260)
+ (engineering industry, 0.245)
+ (industry, 0.229)
+ (rail engineering, 0.229)
+ (rail, 0.201)
+ (engineering, 0.193)
+ (assist prepare, 0.136)
+ (defined, 0.136)","Counter({'Senior-level': 1097.9807230843064, 'Mid-level': 402.4380499120141, 'Entry-level': 182.58122700367943})","Counter({'Pregraduate': 1009.1612941929292, 'Graduate': 673.8387058070708})"
+2,Pregraduate,Senior-level,45242.0,Plan electrification and plant engineering activities,pplreep08  plan electrification and plant engineering activities,"Planning
+ Engineering design
+ Engineering design and installation
+ Organisational skills
+ Teamwork collaboration
+ Mechanical engineering
+ Communication skills
+ Commissioning
+ Budgeting
+ Leadership","Mechanical engineer
+ Mechanical project engineer
+ Mechanical design engineer
+ Lead engineer
+ Chief engineer
+ Piping design engineer
+ Product assurance engineer
+ Engineer
+ Chiller engineer
+ Maintenance engineer",['Mechanical engineers'],"['Structural engineering', 'Employee development']","(plant engineering, 0.473)
+ (electrification, 0.417)
+ (electrification plant, 0.417)
+ (engineering activity, 0.324)
+ (plan, 0.320)
+ (plant, 0.315)
+ (activity, 0.259)
+ (engineering, 0.234)","Counter({'Senior-level': 1908.220663380986, 'Mid-level': 542.666978909973, 'Entry-level': 224.11235770904108})","Counter({'Pregraduate': 1372.8300709738105, 'Graduate': 1302.1699290261895})"
+1,Graduate,Senior-level,47348.0,"Allocate and monitor resources for electrification and plant engineering activities
+ Establish the operational condition of electrification and plant assets;restore the contact systems to operational condition in the rail engineering industry ","pplreep11  allocate and monitor resources for electrification and plant engineering activities
+ ['pplreep03  establish the operational condition of electrification and plant assets', 'pplreep12  restore the contact systems to operational condition in the rail engineering industry']","Environmental consulting
+ Communication skills
+ Planning
+ Civil aviation
+ Aircraft maintenance
+ Original equipment manufacturer oem 
+ Procurement
+ Aviation regulations
+ Natural resources
+ Computer literacy","Automotive lead engineer
+ Mechanical engineer
+ Chief engineer
+ Mechanical systems engineer
+ Mechanical design engineer
+ Mechanical surveyor
+ Lead engineer
+ Mechanical project engineer
+ Riser analysis engineer
+ Energy project engineer",['Mechanical engineers'],"['Environmental planning', 'Aviation']","(operational condition, 0.343)
+ (electrification plant, 0.313)
+ (electrification, 0.313)
+ (operational, 0.290)
+ (condition, 0.283)
+ (plant, 0.236)
+ (resource electrification, 0.185)
+ (plant asset, 0.178)
+ (plant engineering, 0.178)
+ (contact, 0.178)","Counter({'Senior-level': 42, 'Mid-level': 5, 'Entry-level': 2})","Counter({'Graduate': 41, 'Pregraduate': 8})"
+4,Graduate,Senior-level,49991.0,Carry out installation of electrification and plant assets,pplreep07  carry out installation of electrification and plant assets,"Mechanical engineering
+ Project management
+ Communication skills
+ Planning
+ Budgeting
+ Civil engineering
+ Commissioning
+ Process engineering
+ Feasibility studies
+ Time management","Process engineer
+ Mechanical engineer
+ Mechanical design engineer
+ Maritime engineer
+ Mechanical project engineer
+ Civil engineer
+ Chief engineer
+ Refrigeration service engineer
+ Lead engineer
+ Maintenance engineer",['Mechanical engineers'],"['Civil engineering', 'Biofuels']","(installation electrification, 0.430)
+ (plant asset, 0.412)
+ (electrification, 0.363)
+ (electrification plant, 0.363)
+ (carry installation, 0.357)
+ (plant, 0.274)
+ (installation, 0.269)
+ (asset, 0.269)
+ (carry, 0.185)","Counter({'Senior-level': 302.1077878103838, 'Entry-level': 117.7793453724605, 'Mid-level': 25.112866817155755})","Counter({'Graduate': 368.6568848758465, 'Pregraduate': 76.3431151241535})"

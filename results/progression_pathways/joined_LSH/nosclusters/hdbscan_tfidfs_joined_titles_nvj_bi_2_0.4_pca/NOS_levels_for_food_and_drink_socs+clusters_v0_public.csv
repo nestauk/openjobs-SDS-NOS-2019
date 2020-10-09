@@ -1,0 +1,280 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+1,Pregraduate,Entry-level,15589.0,"Maintain mechanical equipment within an engineered system used in food and drink operations
+Understand how to maintain mechanical equipment within an engineered system used in food and drink operations
+Maintain fluid power equipment within an engineered system used in food and drink operations
+Understand how to maintain fluid power equipment within an engineered system used in food and drink operations
+Maintain process controller equipment within an engineered system used in food and drink operations
+Understand how to maintain process controller equipment within an engineered system used in food and drink operations
+Carry out preventative planned maintenance on engineered systems within food and drink operations
+Understand how to carry out preventative planned maintenance on engineered systems within food and drink operations
+Carry out condition monitoring of plant and equipment used within food and drink operations
+Understand how to carry out condition monitoring of plant and equipment used within food and drink operations
+Maintain waste/foul water distribution systems and equipment used in food and drink operations
+Maintain emergency power generation equipment used in food and drink operations
+Understand how to maintain emergency power generation equipment used in food and drink operations 
+Maintain gas distribution systems and equipment used in food and drink operations
+Understand how to maintain gas distribution systems and equipment used in food and drink operations  
+Carry out preventative planned maintenance on instrumentation and control equipment used in food and drink operations
+Repair/overhaul instrumentation and control equipment used in food and drink operations
+Understand how to repair/overhaul instrumentation and control equipment used in food and drink operations
+Understand how to maintain air conditioning and ventilation systems used in food and drink operations  ;understand how to maintain heating and ventilation systems used in food and drink operations;understand how to maintain waste/foul water distribution systems and equipment used in food and drink operations;understand how to maintain compressed air systems and equipment used in food and drink operations;understand how to maintain fresh water distribution systems and equipment used in food and drink operations
+Understand how to carry out preventative planned maintenance on instrumentation and control equipment used in food and drink operations ;understand how to carry out preventative planned maintenance on services systems and equipment used in food and drink operations","impem119s
+impem120k
+impem121s
+impem122k
+impem123s
+impem124k
+impem125s
+impem126k
+impem127s
+impem128k
+impem139s
+impem143s
+impem144k
+impem149s
+impem150k
+impem163s
+impem165s
+impem166k
+['impem146k', 'impem148k', 'impem140k', 'impem138k', 'impem152k']
+['impem158k', 'impem164k']","Cleaning
+Packaging
+Work area maintenance
+Machinery cleaning
+Food industry knowledge
+Food safety
+Detail-orientated
+Teamwork collaboration
+Cooking
+Food preparation
+Communication skills
+Customer service
+Heavy lifting
+Organisational skills
+Quality assurance and control
+Equipment moving
+Lifting ability
+Sorting
+Written communication
+Client base retention","Cleaning
+Packaging
+Food safety
+Cooking
+Fluorescence-activated cell sorting facs","Cleaning
+Packaging
+Work area maintenance
+Food safety
+Cooking
+Sorting
+Client base retention","Bakery operative
+Food operative
+Meat processor
+Food production and apprentice
+Food production
+Sausage maker
+Apprentice ice cream maker
+Speciality cheese maker
+Blending operative
+Apprentice food manufacturer","['Food, drink and tobacco process operatives']",['Driving and automotive maintenance'],"(use food, 0.305)
+ (drink, 0.301)
+ (food drink, 0.301)
+ (drink operations, 0.301)
+ (food, 0.299)
+ (operations understand, 0.284)
+ (operations, 0.250)
+ (equipment use, 0.218)
+ (understand, 0.215)
+ (use, 0.212)","Counter({'Entry-level': 2480, 'Mid-level': 140, 'Senior-level': 40})","Counter({'Pregraduate': 2620, 'Graduate': 40})"
+4,Pregraduate,Entry-level,15740.0,"Hand over and confirm completion of maintenance activities within food and drink operations
+Understand how to hand over and confirm completion of maintenance activities within food and drink operations
+Apply total productive maintenance (tpm) in food and drink operations
+Understand how to apply total productive maintenance (tpm) in food and drink operations 
+Maintain instrumentation and control systems used in food and drink operations
+Assist in the installation of instrumentation and control equipment used in food and drink operations
+Understand how to assist in the installation of instrumentation and control equipment used in food and drink operations ","impem115s
+impem116k
+impem131s
+impem132k
+impem153s
+impem169s
+impem170k","Cleaning
+Packaging
+Food safety
+Communication skills
+Cooking
+Work area maintenance
+Detail-orientated
+Teamwork collaboration
+Food preparation
+Food industry knowledge
+Machinery cleaning
+Organisational skills
+Quality assurance and control
+Heavy lifting
+Customer service
+Sorting
+Computer literacy
+Equipment moving
+Lifting ability
+Creativity","Cleaning
+Packaging
+Food safety
+Cooking
+Fluorescence-activated cell sorting facs","Cleaning
+Packaging
+Food safety
+Cooking
+Work area maintenance
+Sorting","Bakery operative
+Food operative
+Food production and apprentice
+Food production
+Meat processor
+Brewer
+Sausage maker
+Packing operative
+Blending operative
+Apprentice food manufacturer","['Food, drink and tobacco process operatives']","['Driving and automotive maintenance', 'Electrical work', 'Construction engineering']","(drink operations, 0.298)
+ (food drink, 0.298)
+ (drink, 0.298)
+ (food, 0.295)
+ (operations, 0.247)
+ (operations understand, 0.201)
+ (instrumentation control, 0.165)
+ (instrumentation, 0.162)
+ (understand, 0.152)
+ (maintenance, 0.147)","Counter({'Entry-level': 3037.959491425191, 'Mid-level': 282.38231815493793, 'Senior-level': 102.6581904198699})","Counter({'Pregraduate': 3344.379730928444, 'Graduate': 78.6202690715553})"
+2,Pregraduate,Entry-level,15890.0,"Comply with statutory regulations and organisational safety requirements in food and drink operations
+Understand how to comply with statutory regulations and organisational safety requirements in food and drink operations
+Use engineering drawings and documents in maintenance activities in food and drink operations
+Understand how to use engineering drawings and documents in maintenance activities in food and drink operations
+Assist in the installation of equipment to produce an engineered system in food and drink operations
+Understand how to carry out fault diagnosis on instrumentation and control equipment and circuits used in food and drink operations 
+Test and calibrate instrumentation and control equipment and circuits used in food and drink operations
+Understand how to test and calibrate instrumentation and control equipment and circuits used in food and drink operations
+Carry out fault diagnosis on engineered systems within food and drink operations;carry out fault diagnosis on services and systems for food and drink operations
+Maintain heating and ventilation systems used in food and drink operations;maintain fresh water distribution systems and equipment used in food and drink operations;maintain air conditioning and ventilation systems used in food and drink operations
+Carry out fault diagnosis on instrumentation and control equipment and circuits used in food and drink operations","impem109s
+impem110k
+impem111s
+impem112k
+impem129s
+impem162k
+impem167s
+impem168k
+['impem135s', 'impem117s']
+['impem137s', 'impem147s', 'impem145s']
+impem161s","Cleaning
+Packaging
+Food safety
+Communication skills
+Cooking
+Food preparation
+Teamwork collaboration
+Detail-orientated
+Organisational skills
+Food industry knowledge
+Work area maintenance
+Quality assurance and control
+Machinery cleaning
+Creativity
+Hazard analysis critical control point haccp 
+Heavy lifting
+Meal preparation
+Computer literacy
+Hospitality industry knowledge
+Fermentation","Cleaning
+Packaging
+Food safety
+Cooking","Cleaning
+Packaging
+Food safety
+Cooking
+Work area maintenance
+Meal preparation","Bakery operative
+Food operative
+Food production and apprentice
+Food production
+Meat processor
+Brewer
+Packing operative
+Blending operative
+Craft brewer
+Apprentice food manufacturer","['Food, drink and tobacco process operatives']","['Electrical work', 'Health, safety and environment', 'Construction engineering']","(food drink, 0.332)
+ (drink operations, 0.332)
+ (drink, 0.332)
+ (food, 0.329)
+ (operations, 0.275)
+ (use food, 0.183)
+ (use, 0.163)
+ (operations understand, 0.149)
+ (circuit use, 0.149)
+ (equipment circuit, 0.131)","Counter({'Entry-level': 3300, 'Mid-level': 440, 'Senior-level': 176})","Counter({'Pregraduate': 3795, 'Graduate': 121})"
+3,Pregraduate,Entry-level,17922.0,"Maintain workplace environmental control systems used in food and drink operations
+Understand how to maintain instrumentation and control systems used in food and drink operations","impem141s
+impem154k","Teamwork collaboration
+Organisational skills
+Detail-orientated
+Cleaning
+Packaging
+Communication skills
+Time management
+Food safety
+Cooking
+Food preparation
+Food industry knowledge
+Work area maintenance
+Quality assurance and control
+Machinery cleaning
+Creativity
+Hazard analysis critical control point haccp 
+Heavy lifting
+Meal preparation
+Computer literacy
+Hospitality industry knowledge","Cleaning
+Packaging
+Food safety
+Cooking","Cleaning
+Packaging
+Food safety
+Cooking
+Work area maintenance
+Meal preparation","Bakery operative
+Blending operative
+Blind manufacturer
+Food production royal
+Food operative
+Food production and apprentice
+Food production
+Meat processor
+Brewer
+Packing operative","['Food, drink and tobacco process operatives']","['Employee development', 'Environmental planning', 'Electrical work']","(control use, 0.383)
+ (use food, 0.268)
+ (drink, 0.243)
+ (drink operations, 0.243)
+ (food drink, 0.243)
+ (food, 0.241)
+ (control, 0.237)
+ (maintain, 0.219)
+ (maintain workplace, 0.206)
+ (environmental control, 0.206)","Counter({'Entry-level': 302.5280898876404, 'Mid-level': 279.6704119850187, 'Senior-level': 135.8014981273408})","Counter({'Pregraduate': 706.9073033707865, 'Graduate': 11.092696629213483})"
+0,Pregraduate,Mid-level,19954.0,"Understand how to maintain workplace environmental control systems used in food and drink operations
+Understand how to carry out fault diagnosis on engineered systems within food and drink operations;understand how to carry out fault diagnosis on services and systems for food and drink operations
+Understand how to assist in the installation of engineering services equipment used in food and drink operations;understand how to assist in the installation of equipment to produce an engineered system in food and drink operations","impem142k
+['impem118k', 'impem136k']
+['impem160k', 'impem130k']","Organisational skills
+Teamwork collaboration
+Detail-orientated
+Communication skills
+Time management",,,"Blind manufacturer
+Blending operative
+Food production royal","['Food, drink and tobacco process operatives']",['Employee development'],"(operations understand, 0.344)
+ (understand, 0.325)
+ (drink operations, 0.273)
+ (food drink, 0.273)
+ (drink, 0.273)
+ (food, 0.271)
+ (operations, 0.227)
+ (understand assist, 0.185)
+ (understand carry, 0.167)
+ (engineered food, 0.163)","Counter({'Mid-level': 6, 'Senior-level': 3})",Counter({'Pregraduate': 9})

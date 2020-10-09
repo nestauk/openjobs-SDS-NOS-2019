@@ -1,0 +1,67 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+1,Pregraduate,Entry-level,28616.0,"Prepare building for air tightness testing
+ Carry out air tightness testing for non-simple buildings","astatt2
+ astatt4","Machining
+ Aerospace industry knowledge
+ Machine tools
+ Electrical experience
+ Welding","Air conditioning engineer
+ Refrigeration",['Air-conditioning and refrigeration engineers'],['Manufacturing methods'],"(air tightness, 0.413)
+ (tightness, 0.404)
+ (building, 0.404)
+ (tightness test, 0.404)
+ (air, 0.337)
+ (test, 0.241)
+ (simple, 0.225)
+ (carry air, 0.212)
+ (non, 0.207)
+ (prepare, 0.137)","Counter({'Entry-level': 6, 'Senior-level': 4})",Counter({'Pregraduate': 10})
+2,Pregraduate,Entry-level,31497.0,Carry out air tightness testing for single dwellings and other small buildings  ,astatt3,"Machining
+ Aerospace industry knowledge
+ Machine tools
+ Welding
+ Electrical experience
+ Customer service
+ Hvac
+ Computer literacy
+ Communication skills
+ Client base retention","Air conditioning engineer
+ Refrigeration technician
+ Refrigeration
+ Refrigeration installer",['Air-conditioning and refrigeration engineers'],"['Aviation', 'Manufacturing methods']","(carry air, 0.386)
+ (air tightness, 0.376)
+ (tightness, 0.368)
+ (building, 0.368)
+ (tightness test, 0.368)
+ (small, 0.355)
+ (air, 0.307)
+ (test, 0.220)
+ (carry, 0.184)","Counter({'Entry-level': 33.1746835443038, 'Senior-level': 27.964556962025316, 'Mid-level': 22.860759493670887})","Counter({'Pregraduate': 82.9367088607595, 'Graduate': 1.0632911392405062})"
+0,Pregraduate,Mid-level,34377.0,"Prepare to carry out air tightness testing 
+ Carry out air tightness testing on large and complex, high rise and phased hand over zonal buildings
+ Prepare and issue the air tightness test report  
+ Initiate and progress contracts with clients to carry out air tightness testing ","astatt1
+ astatt10
+ astatt5
+ astatt8","Customer service
+ Hvac
+ Computer literacy
+ Communication skills
+ Client base retention
+ Detail-orientated
+ Repair
+ Retail industry knowledge
+ Machining
+ System maintenance","Refrigeration technician
+ Air conditioning engineer
+ Refrigeration installer
+ Refrigeration",['Air-conditioning and refrigeration engineers'],"['Aviation', 'Electrical work', 'Employee development']","(air, 0.427)
+ (carry air, 0.402)
+ (test, 0.305)
+ (air test, 0.297)
+ (air tightness, 0.261)
+ (tightness, 0.256)
+ (tightness test, 0.256)
+ (carry, 0.192)
+ (prepare, 0.174)
+ (client, 0.148)","Counter({'Mid-level': 172, 'Senior-level': 84, 'Entry-level': 60})","Counter({'Pregraduate': 308, 'Graduate': 8})"

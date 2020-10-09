@@ -1,0 +1,344 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,33491.0,"Marking out composite and/or metallic aircraft components
+Installing aircraft mechanical fasteners into composite and/or metallic components
+Producing composite and/or metallic aircraft sub-assemblies
+Producing composite and/or metallic aircraft major assemblies
+Installing aircraft pneumatic systems
+Installing aircraft de-icing systems
+Providing technical guidance on aeronautical engineering activities
+Producing composite mouldings using wet lay-up techniques
+Removing and replacing components of aircraft radar systems;removing and replacing components of aircraft electrical power control, distribution and protection systems;removing and replacing components of aircraft passive warning and optical/surveillance systems;removing and replacing components of aircraft armament systems;removing and replacing components of aircraft communication systems;removing and replacing components of aircraft internal and external lighting systems;removing and replacing components of aircraft pitot static systems;removing and replacing avionic indication and gauging components in aircraft systems;removing and replacing components of aircraft navigational and computing systems
+Carrying out checks and tests on replaced airframe major assemblies;carrying out tests on aircraft power transmission systems
+Overhauling components of aircraft hydraulic equipment;overhauling major components of aircraft airframes;overhauling components of aircraft pneumatic, vacuum and environmental equipment;overhauling components of aircraft fuel and lubrication equipment
+Producing aircraft composite mouldings using pre-preg laminating techniques;producing aircraft composite mouldings using resin film infusion techniques;using atl/afp laminating techniques to produce composite mouldings;producing aircraft composite mouldings using atl/afp laminating techniques;using pre-preg laminating techniques to produce composite mouldings;using resin film infusion techniques to produce composite mouldings
+Using hand tools to trim composite mouldings;trimming aircraft composite mouldings using hand tools
+Maintaining oxygen systems on aircraft;maintaining flight control systems on rotorcraft;maintaining stabilisers on aircraft;maintaining auto flight systems on aircraft;maintaining engine indicating systems on aircraft;maintaining hydraulic systems on aircraft;maintaining equipment and furnishings on aircraft;maintaining rotor systems on rotorcraft;maintaining lubricating oil systems on aircraft;maintaining radar systems on aircraft;maintaining engine water injection systems on aircraft;maintaining turbine engines on aircraft;maintaining wings on aircraft;maintaining reciprocating engine turbo-supercharging systems on aircraft;maintaining rotor drive systems on rotorcraft;maintaining ice and rain protection systems on aircraft;maintaining indicating and recording systems on aircraft;maintaining bleed air systems on aircraft;maintaining engine exhaust systems on aircraft;maintaining fuel systems on aircraft;maintaining rotor blade and tail pylon folding systems on rotorcraft;maintaining power plant on aircraft;maintaining pneumatic systems on aircraft;maintaining lighting systems on aircraft;maintaining electrical power systems on aircraft;maintaining air conditioning systems on aircraft;maintaining engine starting systems on aircraft;maintaining vacuum systems on aircraft;maintaining cabin systems on aircraft;maintaining propeller/propulsor systems on aircraft;maintaining fire protection systems on aircraft;maintaining landing gear on aircraft;maintaining communication systems on aircraft","semae3005
+semae3008
+semae3010
+semae3011
+semae3042
+semae3043
+semae3195
+sempeo243
+['semae3124', 'semae3127', 'semae3122', 'semae3125', 'semae3128', 'semae3126', 'semae3123', 'semae3129', 'semae3131']
+['semae3159', 'semae3160']
+['semae3173', 'semae3172', 'semae3169', 'semae3170']
+['semcomp2-07', 'semae3202', 'semae3232', 'semcomp2-13', 'semcomp2-08', 'semae3227']
+['semcomp2-15', 'semae3205']
+['semae3315', 'semae3310', 'semae3347', 'semae3330', 'semae3321', 'semae3332', 'semae3333', 'semae3309', 'semae3307', 'semae3334', 'semae3343', 'semae3317', 'semae3305', 'semae3313', 'semae3349', 'semae3346', 'semae3314', 'semae3336', 'semae3320', 'semae3344', 'semae3306', 'semae3335', 'semae3308', 'semae3319', 'semae3331', 'semae3323', 'semae3316', 'semae3337', 'semae3348', 'semae3341', 'semae3345', 'semae3328', 'semae3312']","Mechanical engineering
+Communication skills
+Hvac
+Mechanical design
+Welding
+Organisational skills
+Customer service
+Planning
+Commissioning
+Ventilation
+Project management
+Teamwork collaboration
+Mig and tig welding
+Problem solving
+Plumbing
+Budgeting
+Computer literacy
+Ice machines
+Preventive maintenance
+Predictive preventative maintenance","Mechanical engineering
+Hvac
+Mechanical design
+Welding
+project planning and development skills
+Ventilation
+project planning and development skills
+Plumbing
+budget planning","Mechanical engineering
+Hvac
+Mechanical design
+Welding
+project planning and development skills
+Ventilation
+project planning and development skills
+Mig and tig welding
+Creative problem solving
+Plumbing
+budget planning
+Preventive maintenance","Mechanical engineer
+Mechanical design engineer
+Chief engineer
+Maintenance engineer
+Tooling engineer
+Customer collections and loans agent
+Collections agent
+Mechanical systems engineer
+Mechanical project engineer
+Lead engineer","['Mechanical engineers', 'Debt, rent and other cash collectors']","['Welding and machining', 'Electrical work', 'Driving and automotive maintenance']","(aircraft, 0.558)
+ (maintain, 0.415)
+ (component aircraft, 0.251)
+ (remove replace, 0.188)
+ (replace, 0.184)
+ (replace component, 0.171)
+ (composite, 0.170)
+ (remove, 0.153)
+ (component, 0.138)
+ (composite moulding, 0.133)","Counter({'Senior-level': 9324.941054132512, 'Mid-level': 4671.8082513279, 'Entry-level': 2756.250694539587})","Counter({'Pregraduate': 11149.468541910464, 'Graduate': 5600.444634798196, 'Postgraduate': 3.0868232913379945})"
+3,Pregraduate,Senior-level,41758.0,"Installing aircraft mechanical controls
+Repairing airframes and structures
+Installing aircraft hydraulic systems
+Installing aircraft instrumentation systems
+Carrying out fault diagnosis on aircraft airframe, mechanical components and systems
+Undertaking scheduled maintenance of aircraft airframe and mechanical equipment
+Dismantling aircraft gas turbine engines to module/unit level
+Overhauling aircraft piston engines;stripping and rebuilding engines for motorsport vehicles;overhauling aircraft gas turbine engines by module replacement;stripping and rebuilding prototype engines for test;overhauling aircraft gas turbine engine compressor assemblies;overhauling aircraft gas turbine engine turbine assemblies;overhauling aircraft gas turbine engine gearbox assemblies;overhauling aircraft gas turbine engine combustion assemblies
+Overhauling components of aircraft oxygen equipment;overhauling components of aircraft rotor heads, blades and power transmission equipment","semae3012
+semae3013
+semae3041
+semae3073
+semae3141
+semae3142
+semae3212
+['semae3167', 'semaut3101', 'semae3163', 'semae3162', 'semae3166', 'semaut3140', 'semae3165', 'semae3164']
+['semae3171', 'semae3168']","Mechanical engineering
+Mechanical design
+Engineering design and installation
+Engineering design
+Commissioning
+Communication skills
+Project management
+Budgeting
+Autocad
+Solidworks
+Calculation
+Problem solving
+Planning
+Hydraulics
+Teamwork collaboration
+Technical support
+Customer service
+Electrical design
+Procurement
+Hvac","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+budget planning
+calculator
+project planning and development skills
+Hydraulics
+Electrical design
+Hvac","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+budget planning
+C++
+Calculation
+Creative problem solving
+project planning and development skills
+Hydraulics
+Electrical design
+Procurement strategies
+Hvac","Mechanical engineer
+Mechanical design engineer
+Design engineer
+Mechanical project engineer
+Project engineer
+Lead engineer
+Engineer
+Piping design engineer
+Chiller engineer
+Chief engineer",['Mechanical engineers'],"['Electrical engineering', 'Structural engineering', 'Design and process engineering']","(turbine, 0.323)
+ (aircraft, 0.319)
+ (engine, 0.309)
+ (aircraft gas, 0.295)
+ (gas turbine, 0.295)
+ (turbine engine, 0.285)
+ (overhaul, 0.239)
+ (overhaul aircraft, 0.237)
+ (gas, 0.206)
+ (assembly overhaul, 0.205)","Counter({'Senior-level': 98598.84198027251, 'Mid-level': 32541.764130813473, 'Entry-level': 9476.39388891401})","Counter({'Graduate': 80816.0764181309, 'Pregraduate': 59644.2477450262, 'Postgraduate': 156.67583684290508})"
+2,Graduate,Senior-level,41890.0,"Reinstating the work area on completion of activities
+Installing aircraft visual display units and computer systems
+Installing aircraft electro-optical and infrared systems
+Applying finishes to aircraft composite mouldings
+Undertaking scheduled maintenance of aircraft avionics equipment/systems
+Carrying out test bed runs on aircraft engines (uninstalled)
+Producing aeronautical engineering drawings/models using 3d computer aided techniques
+Monitoring aeronautical engineering activities
+Planning aeronautical engineering activities
+Producing technical details for aeronautical engineering activities
+Obtaining resources for aeronautical engineering activities
+Implementing aeronautical engineering activities
+Repairing aircraft composite mouldings
+Using curing and consolidation equipment for aircraft composite mouldings
+Installing aircraft composite mouldings
+Lifting and trestling/shoring aircraft for maintenance/repair operations
+Drilling and finishing holes in composite and/or metallic aircraft structures or components;drilling and finishing holes in aircraft components
+Removing and replacing components of aircraft cabin systems, equipment and furnishings;removing and replacing components of aircraft hydraulic systems;removing and replacing components of aircraft power transmission systems;removing and replacing aircraft power plant and components;removing and replacing components of aircraft environmental systems
+Producing aeronautical electronic engineering drawings using computer aided techniques;producing aeronautical electrical engineering drawings using computer aided techniques
+Producing aeronautical mechanical engineering drawings using computer aided techniques;produce detailed drawings using computer aided techniques;produce detailed drawings using computer-aided techniques","semae3004
+semae3064
+semae3072
+semae3093
+semae3121
+semae3161
+semae3186
+semae3188
+semae3189
+semae3190
+semae3191
+semae3192
+semae3207
+semae3233
+semae3234
+semae3301
+['semae3039', 'semaer2_13']
+['semae3146', 'semae3149', 'semae3143', 'semae3148', 'semae3150']
+['semae3184', 'semae3183']
+['semae3185', 'semem4-32', 'semeng303']","Mechanical engineering
+Mechanical design
+Communication skills
+Planning
+Solidworks
+Budgeting
+Project management
+Teamwork collaboration
+Autocad
+Organisational skills
+Calculation
+Commissioning
+Problem solving
+3d modelling design
+Leadership
+Product design
+Engineering design and installation
+Engineering design
+Environmental consulting
+Microsoft office","Mechanical engineering
+Mechanical design
+project planning and development skills
+budget planning
+project planning and development skills
+calculator
+Leadership development
+Engineering design
+Environmental consultancy","Mechanical engineering
+Mechanical design
+project planning and development skills
+budget planning
+project planning and development skills
+C++
+Calculation
+Creative problem solving
+3d modelling design
+Leadership development
+Product design
+Engineering design
+Environmental consultancy","Mechanical design engineer
+Mechanical engineer
+Mechanical project engineer
+Design engineer
+Automotive lead engineer
+Project engineer
+Lead engineer
+Chief engineer
+Engineer
+Maintenance engineer",['Mechanical engineers'],"['Design and process engineering', 'Aviation', 'Electrical work']","(aircraft, 0.281)
+ (aeronautical, 0.279)
+ (aid technique, 0.228)
+ (computer aid, 0.228)
+ (aid, 0.228)
+ (computer, 0.223)
+ (use computer, 0.220)
+ (aeronautical engineering, 0.194)
+ (drawing, 0.194)
+ (drawing use, 0.178)","Counter({'Senior-level': 511600.46624010697, 'Mid-level': 228299.97423487488, 'Entry-level': 58847.55952501806})","Counter({'Graduate': 473859.9963736216, 'Pregraduate': 323499.98033676523, 'Postgraduate': 1388.0232896132468})"
+1,Graduate,Senior-level,50290.0,"Producing aircraft composite assemblies
+Installing aircraft environmental systems
+Installing aircraft engine control units
+Installing aircraft power supplies
+Installing aircraft flight guidance and control systems
+Removing and replacing components of aircraft fuel and lubrication systems
+Carrying out tests on aircraft engines and systems
+Carrying out tests on aircraft control systems
+Rebuilding aircraft gas turbine engine assemblies after overhaul
+Levelling and weighing aircraft
+Towing, marshalling and parking aircraft
+Carrying out flight servicing and routine maintenance of aircraft
+Maintaining flight control systems on aircraft
+Producing aircraft engine gearbox assemblies;producing aircraft detail assemblies;producing aircraft engine combustion assemblies;producing aircraft engine major assemblies;producing aircraft piston engine assemblies;dressing aircraft engines;producing aircraft engine turbine assemblies;producing aircraft engine compressor assemblies
+Testing aircraft assisted escape systems;testing aircraft de-icing systems;testing aircraft armament systems;testing aircraft hydraulic systems
+Carrying out tests on aircraft environmental systems;carrying out tests on aircraft communication systems;carrying out tests on aircraft passive warning and optical/surveillance systems;carrying out tests on aircraft navigational and computing systems;carrying out tests on aircraft flight guidance and control systems;carrying out tests on aircraft electrical power control, distribution and protection systems;carrying out tests on aircraft hydraulic systems;carrying out tests on aircraft pneumatic and vacuum systems;carrying out tests on aircraft pitot static systems;carrying out tests on aircraft radar systems;carrying out tests on aircraft fuel and storage systems","semae3026
+semae3045
+semae3065
+semae3066
+semae3068
+semae3145
+semae3153
+semae3154
+semae3213
+semae3302
+semae3303
+semae3304
+semae3311
+['semae3032', 'semae3037', 'semae3036', 'semae3034', 'semae3033', 'semae3031', 'semae3035', 'semae3009']
+['semae3057', 'semae3054', 'semae3061', 'semae3060']
+['semae3-136', 'semae3155', 'semae3134', 'semae3157', 'semae3137', 'semae3158', 'semae3140', 'semae3156', 'semae3138', 'semae3135', 'semae3139']","Original equipment manufacturer oem 
+Mechanical engineering
+Communication skills
+Research
+Hybrid vehicle
+Mechanical design
+Automotive engineering
+Fuel cell
+Electric vehicle
+Automotive industry knowledge
+Project management
+Solidworks
+Fuel cell development
+Vehicle systems
+Planning
+Computer aided draughting design cad 
+Teamwork collaboration
+Budgeting
+Calibration
+Problem solving","Original equipment manufacturer oem
+Mechanical engineering
+Product research
+Mechanical design
+Electric vehicle
+project planning and development skills
+Vehicle systems
+project planning and development skills
+Computer aided draughting design cad
+budget planning","Original equipment manufacturer oem
+Mechanical engineering
+Stem cell research
+Hybrid vehicle
+Mechanical design
+Electric vehicle
+project planning and development skills
+Vehicle systems
+project planning and development skills
+Computer aided draughting design cad
+budget planning
+Calibration
+Creative problem solving","Lead engineer
+Mechanical design engineer
+Engineer
+Mechanical engineer
+Chief engineer
+Mechanical systems engineer
+Principal engineer
+Brake engineer
+Component engineer
+Design engineer",['Mechanical engineers'],"['Aviation', 'Automotive engineering', 'Solar and wind energy']","(aircraft, 0.506)
+ (test aircraft, 0.426)
+ (carry test, 0.336)
+ (test, 0.276)
+ (aircraft engine, 0.223)
+ (engine, 0.212)
+ (carry, 0.191)
+ (produce aircraft, 0.183)
+ (assembly, 0.169)
+ (assembly produce, 0.139)","Counter({'Senior-level': 1870.1711063372718, 'Mid-level': 221.65128893662728, 'Entry-level': 204.17760472610095})","Counter({'Graduate': 2010.4091478696741, 'Pregraduate': 273.39357321876116, 'Postgraduate': 12.197278911564625})"

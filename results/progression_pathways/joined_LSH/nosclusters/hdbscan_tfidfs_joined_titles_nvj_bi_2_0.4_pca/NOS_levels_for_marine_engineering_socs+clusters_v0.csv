@@ -1,0 +1,167 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+1,Pregraduate,Senior-level,41349.0,"Cutting materials using hand and machine tools
+ Checking marine fabrications for quality and dimensional accuracy
+ Maintaining marine fuel systems and equipment
+ Maintaining marine steering gear, control systems and equipment
+ Overhauling marine fuel systems and equipment
+ Marking out for the installation of marine wooden assemblies
+ Preparing marine coatings for application;preparing marine coating materials for application;preparing coating materials for application on yachts and boats;preparing holding primer for application
+ Producing/finishing wooden structural components for yachts and boats;shaping marine wooden components using hand tools;producing marine wooden components using hand tools;shaping marine wooden components using machines;producing marine outfitting components in wood based materials;producing wooden structural components for yachts and boats using machines;producing furniture and structural components for leisure vehicles;producing marine wooden components using machines;producing wooden furniture/outfitting components for yachts and boats using;producing/finishing wooden furniture/outfitting components for yachts and
+ Producing assemblies of marine wooden components;producing marine wooden outfitting assemblies;assembling furniture and structural units for leisure vehicles;assembling wooden furniture/outfitting units for yachts and boats;assembling marine wooden components
+ Carrying out the installation of cable runs and circuits in marine structures;installing cable runs and circuits in marine structures
+ Using bending machines to form marine pipe;bending and forming marine pipe using bending machines;bending and forming marine pipe using hand methods;using hand methods to bend and form marine pipe
+ Joining non-ferrous marine pipework;assembling non-ferrous marine pipework;joining non-metallic marine pipework;assembling ferrous marine pipework by mechanical means;assembling non-metallic marine pipework;joining ferrous marine pipework by mechanical means
+ Joining marine pipework by manual torch brazing and soldering;joining materials using manual torch brazing and soldering;joining marine materials by manual torch brazing and soldering;carrying out manual torch brazing and soldering of marine pipework
+ Marking out for manufacture and assembly of marine wooden components;marking out for the manufacture and assembly of marine wooden components;marking out for the manufacture of structural components for wooden yachts and boats;marking out for the manufacture of wooden furniture/outfitting components for yachts and boats
+ Preparing loads for moving;setting up and preparing loads for moving
+ Preparing for rigging activities;carrying out preparations for rigging activities
+ Maintaining rigging and lifting equipment;carrying out maintenance on rigging and lifting equipment
+ Preparing docks and slips for vessel operations;assisting in the preparation of docks and slips for vessel operations;prepare docks and slips for the receiving of boats and yachts
+ Carrying out the installation of rigging and lifting equipment;installing rigging and lifting equipment
+ Preparing marine material surfaces using hand and mechanical tools;preparing yacht and boat surfaces for painting/finishing;carrying out patch preparation of material surfaces using hand and mechanical tools;preparing yacht and boat surfaces for coating/finishing using hand and
+ Applying surface coatings to yachts and boats using spray methods;applying marine coatings using spray methods;carrying out the application of marine coatings using spray methods;applying holding primer by spray methods
+ Carrying out the manual application of marine coatings;applying yacht and boat paints/coating materials manually;applying surface coatings manually to yachts and boats;applying yacht and boat paints/coatings manually;applying marine coatings manually
+ Setting to work, testing and trialling marine electrical power generation and distribution equipment and systems;setting to work, testing and trialling marine electrical rotating machines and domestic equipment
+ Setting to work, testing and trialling marine lighting, alarm, detection and monitoring equipment and systems;setting to work, testing and trialling marine weapons equipment and systems
+ Overhauling and repairing marine electrical rotating machines and domestic equipment;overhauling electrical marine rotating machines and domestic equipment","semme3054
+ semme3065
+ semme3105
+ semme3110
+ semme3120
+ semme3134
+ ['semme3-233', 'semme3182', 'semme2105', 'semme2101']
+ ['semme3230', 'semme3135', 'semme3239', 'semme3220', 'semme3221', 'semme2048', 'semaut3-126', 'ska126', 'semme3136', 'semme2049', 'semme3229']
+ ['semaut3-127', 'semme2050', 'semme3137', 'ska127', 'semme3242', 'semme3222']
+ ['semme2004', 'semme3004']
+ ['semme3039', 'semme2012', 'semme3040', 'semme2011']
+ ['semme3041', 'semme2013', 'semme3043', 'semme2014', 'semme3042', 'semme2015']
+ ['semme2019', 'semme3047', 'semme3168', 'semme2080']
+ ['semme3218', 'semme3133', 'semme3227', 'semme2047']
+ ['semme2087', 'semme3192']
+ ['semme2089', 'semme3193']
+ ['semme3196', 'semme2092']
+ ['semme2137', 'semme3198', 'semme2094']
+ ['semme2097', 'semme3201']
+ ['semme3232', 'semme2125', 'semme3181', 'semme2099']
+ ['semme2107', 'semme3184', 'semme2102', 'semme3235']
+ ['semme2106', 'semme2127', 'semme3234', 'semme2_127', 'semme3183']
+ ['semme3019', 'semme3013']
+ ['semme3018', 'semme3020']
+ ['semme3038', 'semme338']","Mechanical engineering
+ Communication skills
+ Mechanical design
+ Problem solving
+ Electrical work
+ Project management
+ Engineering management
+ Planning
+ Budgeting
+ Solidworks","Mechanical engineer
+ Mechanical design engineer
+ Lead engineer
+ Design engineer
+ Project engineer
+ Chief engineer
+ Mechanical project engineer
+ Maintenance engineer
+ Engineer
+ Tooling engineer","['Mechanical engineers', 'Leisure and theme park attendants']","['Construction', 'Electrical work', 'Driving and automotive maintenance']","(marine, 0.390)
+ (wooden, 0.262)
+ (marine wooden, 0.182)
+ (yacht, 0.180)
+ (use, 0.167)
+ (boat, 0.166)
+ (yacht boat, 0.160)
+ (coating, 0.157)
+ (marine pipework, 0.145)
+ (prepare, 0.145)","Counter({'Senior-level': 28516.081680964024, 'Mid-level': 11240.083006477755, 'Entry-level': 2547.8353125582225})","Counter({'Pregraduate': 24448.028974597724, 'Graduate': 17842.827545111406, 'Postgraduate': 13.143480290871421})"
+0,Graduate,Senior-level,50290.0,"Installing marine power generation and distribution equipment and systems
+ Installing marine sensor equipment and systems
+ Installing marine computer equipment and systems
+ Installing marine weapons equipment and systems
+ Installing marine lighting, alarm, detection and monitoring equipment and systems
+ Setting to work, testing and trialling marine communication equipment and systems
+ Lining off for assembly and erection of marine steelwork and components
+ Outfitting marine steelwork
+ Installing marine propulsion systems and equipment
+ Installing marine power transmission systems and equipment
+ Installing marine hydraulic systems and equipment
+ Installing marine mechanical control systems and equipment
+ Installing marine ancillary plant and equipment
+ Installing marine fire main systems and equipment
+ Maintaining marine hydraulic systems and equipment
+ Maintaining marine auxiliary power units
+ Maintaining marine mechanical control equipment and systems
+ Overhauling marine propulsion systems
+ Repairing marine composite components and assemblies
+ Installing marine sheet metal components and assemblies
+ Testing marine electrical equipment and circuits;testing marine electrical and electronic equipment and circuits;carrying out tests on marine electrical and electronic equipment and circuits;carrying out tests on marine electrical equipment and circuits
+ Modifying and rewiring marine electrical circuits;carrying out modifications and rewiring of marine electrical circuits;modifying and rewiring electrical circuits in yachts and boats
+ Assisting in the installation of marine pipework and components;installing marine pipework and components
+ Assisting in the testing of marine pipework systems;preparing and testing marine pipework systems
+ Marking off marine structural steelwork components;marking off for the manufacture of marine steelwork components
+ Shaping marine steelwork using a power press;forming marine components using a power press
+ Marking out for fabrication and assembly of marine sheet metalwork;marking out marine sheet metalwork
+ Installing marine communication equipment and systems;installing marine navigational equipment and systems
+ Setting to work, testing and trialling marine navigational equipment and systems;setting to work, testing and trialling marine computer equipment and systems
+ Maintaining marine lighting, alarm, detection and monitoring equipment and systems;maintaining marine electrical power generation and distribution equipment and systems;maintaining marine electrical rotating machines and domestic equipment;maintaining marine sensor equipment and systems;maintaining electronic equipment in yachts and boats;maintaining marine navigational equipment and systems;maintaining marine communication equipment and systems;maintaining marine computer equipment and systems
+ Assembling sub-assemblies and components to produce major marine structural assemblies;siting and levelling for the assembly of marine structures
+ Installing marine wooden components;installing wooden furniture/outfitting units in yachts and boats;installing marine outfitting components and assemblies;installing skirting assemblies onto the hovercraft;installing sponson assemblies onto the rigid inflatable boat (rib)","semme3005
+ semme3008
+ semme3009
+ semme3010
+ semme3012
+ semme3014
+ semme3053
+ semme3062
+ semme3067
+ semme3068
+ semme3070
+ semme3073
+ semme3076
+ semme3079
+ semme3106
+ semme3108
+ semme3109
+ semme3118
+ semme3150
+ semme3156
+ ['semme3-23', 'semme208', 'semme3023', 'semme2008']
+ ['semme2007', 'semme3022', 'semme3210']
+ ['semme2016', 'semme3044']
+ ['semme2017', 'semme3045']
+ ['semme2020', 'semme3049']
+ ['semme2027', 'semme3056']
+ ['semme3152', 'semme2065']
+ ['semme3007', 'semme3006']
+ ['semme3017', 'semme3015']
+ ['semme3033', 'semme3029', 'semme3030', 'semme3026', 'semme3212', 'semme3028', 'semme3027', 'semme3032']
+ ['semme3066', 'semme3052']
+ ['semme3243', 'semme3284', 'semme3223', 'semme3138', 'semme3279']","Mechanical engineering
+ Mechanical design
+ Communication skills
+ Project management
+ Budgeting
+ Planning
+ Wind turbines
+ Wind power
+ Hydropower
+ Procurement","Mechanical engineer
+ Mechanical design engineer
+ Principal engineer
+ Design engineer
+ Wind turbine engineer
+ Chief engineer
+ Mechanical systems engineer
+ Project engineer
+ Mechanical project engineer
+ Tooling engineer",['Mechanical engineers'],"['Aviation', 'Environmental planning', 'Solar and wind energy']","(marine, 0.543)
+ (instal marine, 0.282)
+ (equipment, 0.255)
+ (instal, 0.255)
+ (equipment instal, 0.242)
+ (maintain marine, 0.185)
+ (marine electrical, 0.154)
+ (assembly, 0.144)
+ (maintain, 0.142)
+ (electrical, 0.118)","Counter({'Senior-level': 96557.4089445357, 'Mid-level': 28074.4586056047, 'Entry-level': 7033.13244985959})","Counter({'Graduate': 88463.58151582885, 'Pregraduate': 43070.23541589322, 'Postgraduate': 131.1830682779453})"

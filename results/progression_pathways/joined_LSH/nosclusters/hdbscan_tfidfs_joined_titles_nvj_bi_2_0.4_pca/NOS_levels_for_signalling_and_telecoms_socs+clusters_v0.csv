@@ -1,0 +1,109 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,41790.0,"Plan signal maintenance testing activities
+ Carry out installation of signalling assets
+ Carry out replacement of components from signalling assets
+ Assist with establishing compliance with specifications for signalling equipment
+ Establish compliance with specifications for signalling assets
+ Diagnose faults in signalling assets
+ Adjust telecoms components and equipment to meet operational requirements
+ Carry out removal of components from telecoms assets
+ Carry out replacement of components from telecoms assets
+ Plan for further professional development in the rail industry;plan for further professional development in the rail engineering industry
+ Allocate and monitor resources for telecoms engineering activities;allocate and monitor resources for signal engineering activities
+ Conduct functional testing of newly installed signalling systems;conduct maintenance testing of signalling assets
+ Transfer responsibility of signalling assets;transfer responsibility of telecoms assets
+ Contribute to technical leadership of telecoms engineering activities;contribute to technical leadership of signal engineering activities","pplres04
+ pplres09
+ pplres16
+ pplres17
+ pplres18establish compliance with specifications for signalling assets
+ pplres22
+ pplret12
+ pplret14
+ pplret16
+ ['pplrec06', 'pplrs06']
+ ['pplret06', 'pplres06']
+ ['pplres20', 'pplres19']
+ ['pplres23', 'pplret22']
+ ['pplres24', 'pplret23']","Mechanical engineering
+ Communication skills
+ Mechanical design
+ Civil engineering
+ Project management
+ Planning
+ Problem solving
+ Budgeting
+ Engineering management
+ Commissioning","Mechanical engineer
+ Mechanical design engineer
+ Mechanical project engineer
+ Lead engineer
+ Project engineer
+ Design engineer
+ Chief engineer
+ Maritime engineer
+ Engineer
+ Maintenance engineer","['Mechanical engineers', 'Rail transport operatives']","['Electrical work', 'Manufacturing methods', 'Employee development']","(signal, 0.420)
+ (asset, 0.328)
+ (signal asset, 0.291)
+ (telecom, 0.232)
+ (engineering activity, 0.154)
+ (activity, 0.153)
+ (telecom asset, 0.151)
+ (engineering, 0.138)
+ (testing, 0.132)
+ (contribute technical, 0.117)","Counter({'Senior-level': 40109.918816095495, 'Mid-level': 14743.996356673868, 'Entry-level': 3071.0848272306366})","Counter({'Pregraduate': 29258.58595920279, 'Graduate': 28612.588029849157, 'Postgraduate': 53.826010948054524})"
+1,Graduate,Senior-level,45062.0,"Establish information for signal engineering maintenance and/or fault finding
+ Carry out planned maintenance of signalling assets
+ Adjust signalling components and equipment to meet operational requirements
+ Carry out removal of components from signalling assets
+ Establish information for telecoms engineering maintenance and/or fault finding
+ Plan telecoms maintenance testing activities
+ Carry out installation of telecoms assets
+ Conduct specified testing of telecoms systems
+ Diagnose faults in telecoms assets
+ Establish information for telecoms engineering installation;establish information for telecoms engineering testing;establish information for signal engineering installation;establish information for signal engineering testing
+ Determine requirements for the safe access to work locations for telecoms engineering;determine requirements for safe access to work locations for signal engineering
+ Reinstate the work area after signal engineering activities;reinstate the work area after telecoms engineering activities
+ Organise local signal engineering activities;organise local telecoms engineering activities
+ Carry out planned maintenance of telecoms assets;establish compliance with specifications for maintained telecoms assets;establish compliance with specifications for newly installed telecoms assets","pplres01
+ pplres11
+ pplres12
+ pplres14
+ pplret01
+ pplret04
+ pplret09
+ pplret20
+ pplret21diagnose faults in telecoms assets
+ ['pplres03', 'pplret03', 'pplres02', 'pplret02']
+ ['pplres05', 'pplret05']
+ ['pplret07', 'pplres07']
+ ['pplres25organise local signal engineering activities', 'pplret24']
+ ['pplret11', 'pplret19', 'pplret18']","Mechanical engineering
+ Mechanical design
+ Communication skills
+ Planning
+ Project management
+ Budgeting
+ Commissioning
+ Autocad
+ Engineering design and installation
+ Engineering design","Mechanical engineer
+ Mechanical design engineer
+ Mechanical project engineer
+ Chief engineer
+ Mechanical systems engineer
+ Project engineer
+ Design engineer
+ Lead engineer
+ Engineer
+ Maritime engineer",['Mechanical engineers'],"['Civil engineering', 'Construction engineering', 'Electronics']","(telecom, 0.384)
+ (signal, 0.263)
+ (establish, 0.262)
+ (engineering, 0.254)
+ (establish information, 0.236)
+ (telecom engineering, 0.210)
+ (signal engineering, 0.207)
+ (information, 0.198)
+ (asset, 0.195)
+ (telecom asset, 0.192)","Counter({'Senior-level': 42814.85542889021, 'Mid-level': 9252.311725760084, 'Entry-level': 2565.8328453497074})","Counter({'Graduate': 33247.58368101224, 'Pregraduate': 21356.547391770422, 'Postgraduate': 28.868927217342172})"

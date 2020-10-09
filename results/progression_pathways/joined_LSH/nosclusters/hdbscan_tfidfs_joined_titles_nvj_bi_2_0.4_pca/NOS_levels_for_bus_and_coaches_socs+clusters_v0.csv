@@ -1,0 +1,172 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+3,Pregraduate,Mid-level,26130.0,"Complete routine assembly of bus/coach body components
+ Prepare and treat surfaces and apply paint coats to bus/coach body panels and components
+ Establish customer technical requirements for buses/coaches","pplbacem13
+ pplbacem14
+ pplbacem34","Repair
+ Electrical work
+ Teamwork collaboration
+ Auto repair
+ Vehicle maintenance
+ Communication skills
+ Ignition systems
+ Multimeters
+ Customer service
+ Organisational skills","Vehicle technician
+ Hgv technician
+ Auto technician
+ Roadside vehicle technician
+ Motor vehicle technician
+ Mechanic
+ Roadside technician
+ Light commercial vehicle technician
+ Repair technician
+ Mot tester","['Vehicle technicians, mechanics and electricians']","['Employee development', 'Aviation', 'Electrical work']","(bus, 0.354)
+ (bus coach, 0.354)
+ (coach, 0.349)
+ (coach body, 0.311)
+ (body, 0.261)
+ (establish customer, 0.172)
+ (routine assembly, 0.172)
+ (panel component, 0.172)
+ (technical requirement, 0.165)
+ (surface apply, 0.165)","Counter({'Mid-level': 54036.24772078501, 'Senior-level': 28065.66008468278, 'Entry-level': 4567.09219453221})","Counter({'Pregraduate': 86512.41297624157, 'Graduate': 156.58702375842654})"
+2,Pregraduate,Mid-level,27870.0,"Identify bus/coach body damage and recommend suitable repair techniques
+ Set out and assemble bus/coach body components","pplbacem12
+ pplbacem28","Repair
+ Communication skills
+ Teamwork collaboration
+ Auto repair
+ Vehicle maintenance
+ Welding
+ Detail-orientated
+ Customer service
+ Calibration
+ Machining","Vehicle technician
+ Auto technician
+ Hgv technician
+ Repair technician
+ Heritage vehicle technician
+ Motor vehicle technician
+ Mechanic
+ Diesel technician
+ Diesel mechanic
+ Automotive engineer","['Vehicle technicians, mechanics and electricians']","['Manufacturing methods', 'Hydrology', 'Electrical work']","(coach body, 0.426)
+ (body, 0.356)
+ (bus, 0.323)
+ (bus coach, 0.323)
+ (coach, 0.319)
+ (suitable, 0.236)
+ (recommend, 0.236)
+ (body damage, 0.226)
+ (damage, 0.219)
+ (body component, 0.213)","Counter({'Mid-level': 47368.11198462106, 'Senior-level': 22962.121866997757, 'Entry-level': 9876.766148381183})","Counter({'Pregraduate': 77537.92802074927, 'Graduate': 2669.0719792507366})"
+4,Pregraduate,Mid-level,31658.0,"Complete thermal joining of bus/coach components
+ Carry out roadside recovery of buses/coaches
+ Rectify electrical faults in bus/coach systems and components;rectify mechanical faults in bus/coach systems and components
+ Carry out scheduled body maintenance on buses / coaches;carry out scheduled electrical maintenance on buses/coaches;carry out scheduled mechanical maintenance on buses/coaches
+ Recondition electrical components in buses/coaches;diagnose electrical faults in bus/coach systems and components;diagnose mechanical faults in bus/coach systems and components","pplbacem17
+ pplbacem36
+ ['pplbacem08', 'pplbacem07']
+ ['pplbacem19', 'pplbacem20', 'pplbacem21']
+ ['pplbacem23', 'pplbacem22', 'pplbacem32']","Repair
+ Civil engineering
+ Teamwork collaboration
+ Auto repair
+ Detail-orientated
+ Computer literacy
+ Communication skills
+ Vehicle maintenance
+ People development
+ Passenger transport","Vehicle technician
+ Mobile vehicle technician
+ Heavy vehicle technician apprentice
+ Auto technician
+ Hgv technician
+ Mechanic
+ Diesel mechanic
+ Lgv mechanic
+ Hgv vehicle technician
+ Fleet mechanic","['Vehicle technicians, mechanics and electricians']","['Civil engineering', 'Electrical engineering', 'Employee development']","(bus coach, 0.460)
+ (bus, 0.460)
+ (coach, 0.453)
+ (coach component, 0.295)
+ (fault bus, 0.242)
+ (fault, 0.173)
+ (component, 0.156)
+ (electrical, 0.145)
+ (component carry, 0.134)
+ (mechanical fault, 0.129)","Counter({'Mid-level': 37499.72599349464, 'Senior-level': 12896.260770507448, 'Entry-level': 2672.013235997916})","Counter({'Pregraduate': 52995.452721379705, 'Graduate': 72.54727862029591})"
+1,Pregraduate,Mid-level,35000.0,"Carry out bus/coach servicing
+ Rectify body damage on bus/coach vehicle body components
+ Identify and locate mechanical faults in bus/coach systems and components
+ Identify and locate electrical faults in bus/coach systems and components
+ Provide roadside assistance for broken down buses/coaches
+ Conduct inspections of buses/coaches
+ Assess body damage to buses/coaches
+ Repair damage to bus/coach body components
+ Recondition mechanical components in buses/coaches
+ Install ancillary systems and components in buses/coaches
+ Improve the service provided to customers of buses/coaches
+ Operate an it system in a bus/coach engineering and maintenance environment
+ Repair electrical faults in bus/coach systems and components;repair mechanical/electrical faults in ancillary systems and components in buses/coaches","pplbacem06
+ pplbacem09
+ pplbacem10
+ pplbacem11
+ pplbacem15
+ pplbacem18
+ pplbacem24
+ pplbacem27
+ pplbacem29
+ pplbacem31
+ pplbacem35
+ pplbacem40
+ ['pplbacem26', 'pplbacem33']","Civil engineering
+ Repair
+ Detail-orientated
+ Computer literacy
+ Teamwork collaboration
+ Communication skills
+ Passenger transport
+ People development
+ Leadership
+ Automation consulting","Heavy vehicle technician apprentice
+ Mobile vehicle technician
+ Mechanic
+ Lgv mechanic
+ Hgv vehicle technician
+ Fleet mechanic
+ Diesel mechanic","['Vehicle technicians, mechanics and electricians']",['Civil engineering'],"(bus coach, 0.482)
+ (bus, 0.482)
+ (coach, 0.475)
+ (component, 0.156)
+ (body, 0.152)
+ (damage bus, 0.145)
+ (component bus, 0.140)
+ (damage, 0.140)
+ (electrical fault, 0.136)
+ (fault bus, 0.136)","Counter({'Mid-level': 91, 'Senior-level': 26})",Counter({'Pregraduate': 117})
+0,Graduate,Senior-level,40576.0,"Contribute to safe working practices in bus/coach engineering and maintenance
+ Plan and organise work of self and others
+ Support learners by coaching in the workplace","pplbacem01
+ pplbacem37
+ pplbacem38","Teamwork collaboration
+ Planning
+ Communication skills
+ Automotive industry knowledge
+ Organisational skills
+ Multi-tasking
+ Supervisory skills
+ Facebook","Bodyshop manager
+ Bodyshop manager main
+ Branch manager automotive fast fit centre
+ Motor trade centre manager automotive fast fit",['Garage managers and proprietors'],['Employee development'],"(coach, 0.318)
+ (contribute safe, 0.235)
+ (self, 0.235)
+ (safe working, 0.235)
+ (learner coach, 0.235)
+ (support learner, 0.226)
+ (learner, 0.226)
+ (working practice, 0.218)
+ (others, 0.218)
+ (coach engineering, 0.212)","Counter({'Senior-level': 60, 'Mid-level': 27})","Counter({'Graduate': 72, 'Pregraduate': 15})"

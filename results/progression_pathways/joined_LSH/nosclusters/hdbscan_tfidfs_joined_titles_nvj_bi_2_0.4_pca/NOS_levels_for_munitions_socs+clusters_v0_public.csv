@@ -1,0 +1,103 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Entry-level,23462.0,"Plan munition clearance and search operations and programmes
+Contribute to removing the threat of munitions
+Move and transport munitions
+Contribute to the movement or transportation of munitions
+Enable areas cleared of munitions or specified targets to be remediated
+Complete munitions or specified targets search reports
+Assist with the movement and transportation of munitions
+Use and maintain search or munition clearance equipment
+Assist with the preparation, maintenance and use of search or munition clearance equipment
+Plan specified targets search operations
+Manage munition clearance and search operations and programmes
+Manage specified targets search operations
+Evaluate and improve the effectiveness of munition clearance and search operations and programmes
+Organise and supervise the delivery of specified targets search plans
+Identify and describe the area to be searched
+Contribute to locating the disposition of potential munitions
+Confirm the presence of munition(s)
+Develop your competence in working with munitions or specified targets","cogesa12.1
+cogesa12.11
+cogesa12.12
+cogesa12.13
+cogesa12.14
+cogesa12.15 
+cogesa12.17
+cogesa12.18 
+cogesa12.19
+cogesa12.1a
+cogesa12.2
+cogesa12.2a 
+cogesa12.3
+cogesa12.3a
+cogesa12.6a
+cogesa12.7
+cogesa12.8
+cogesa13.20","Detail-orientated
+Computer literacy
+Heat treatment
+Cleaning
+Communication skills
+Packaging
+Demolition
+Forklift operation
+Meeting deadlines
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Work area maintenance
+Colour matching
+Sealants
+Chemistry
+Quality assurance and control
+Mixing machines
+Heavy lifting","Cleaning
+Packaging
+Forklift operation
+Listening
+Physical demand
+Food safety
+Chemistry","Cleaning
+Packaging
+Demolition
+Forklift operation
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Work area maintenance
+Colour matching
+Chemistry","Mixing operative
+Heat treatment operator
+Furnace process operative
+Coil tubing operator
+Ink room operative
+Operative green red blue
+Machine and paint operative
+Cell operator
+Cosmetic scrub
+Distiller",['Chemical and related process operatives'],"['Aviation', 'Civil engineering', 'Employee development']","(munition, 0.521)
+ (search, 0.380)
+ (specify target, 0.252)
+ (target, 0.244)
+ (specify, 0.228)
+ (search operations, 0.219)
+ (clearance, 0.219)
+ (munition clearance, 0.219)
+ (target search, 0.175)
+ (operations programme, 0.143)","Counter({'Entry-level': 715.9269406392693, 'Senior-level': 237.71689497716895, 'Mid-level': 192.35616438356163})","Counter({'Pregraduate': 641.4018264840183, 'Graduate': 504.5981735159817})"
+1,Pregraduate,Entry-level,24960.0,"Assist in searching for specified targets
+Define the boundaries of the area to be searched for munitions
+Identify and record the location and disposition of potential munitions within boundaries","cogesa12.10a
+cogesa12.5 
+cogesa12.6",Demolition,,Demolition,Operative green red blue,['Chemical and related process operatives'],['Construction engineering'],"(boundary, 0.443)
+ (search, 0.338)
+ (munition, 0.331)
+ (disposition potential, 0.221)
+ (potential munition, 0.221)
+ (disposition, 0.221)
+ (record, 0.221)
+ (search munition, 0.212)
+ (area search, 0.212)
+ (location, 0.212)",Counter({'Entry-level': 3}),Counter({'Pregraduate': 3})

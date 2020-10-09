@@ -1,0 +1,222 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Entry-level,23462.0,"Carry out the research strategy and analyse the information collected on explosive substances and/or articles
+Carry out investigations and analyse the information collected on explosive substances and/or articles
+Contribute to carrying out investigations and analysing the information collected on explosive substances and/or articles
+Evaluate and document complex research and findings on explosive substances and/or articles
+Assess and document research and findings on explosive substances and/or articles
+Gather and interpret the information on explosive substances and/or articles
+Prepare the research programme for explosive substances and/or articles
+Plan the research into explosive substances and/or articles
+Assess the explosive substances and/or articles for disposal
+Dispose of explosive substances and/or articles by function as intended procedures
+Contribute to post-disposal tasks for explosive substances and/or articles
+Adapt an existing disposal procedure for explosive substances and/or articles
+Design a new disposal procedure for explosive substances and/or articles
+Manage tasks for the disposal of explosive substances and/or articles
+Contribute to pre-disposal tasks for explosive substances and/or articles
+Hand over explosive substances and/or articles
+Pack or re-pack explosive substances and/or articles
+Unpack explosive substances and/or articles
+Certify as free from explosives hazards
+Review the factors affecting the safety of specific explosive substances and/or articles
+Establish the performance criteria for explosive substances and/or articles
+Contribute to pre-trial or pre-test tasks relating to relating to explosive substances and/or articles
+Contribute to conducting trial or test of explosive substances and/or articles
+Contribute to post-trial or post-test tasks relating to explosive substances and/or articles
+Plan the trial of explosive substances and/or articles
+Plan the test of explosive substances and/or articles
+Contribute to the identification of the requirement and specification for explosive substances and/or articles
+Provide explosives-related technical input to assist in identifying potential suppliers and/or articles
+Negotiate and award contracts for explosives substances and/or articles
+Place orders for the supply of explosive substances and/or articles
+Ensure compliance with contract terms for the supply of explosive substances and/or articles
+Supervise the placing of explosive substances and/or articles into storage
+Dispose of explosive substances and/or articles by non-complex chemical breakdown procedures;dispose of explosive substances and/or articles by non-complex incineration procedures;dispose of explosive substances and/or articles by complex incineration procedures;dispose of explosive substances and/or articles by complex deflagration procedures;dispose of explosive substances and/or articles by complex detonation procedures;dispose of explosive substances and/or articles by non-complex mechanical breakdown procedures;dispose of explosive substances and/or articles by complex burning procedures;dispose of explosive substances and/or articles by complex chemical breakdown procedures;dispose of explosive substances and/or articles by non-complex burning procedures;dispose of explosive substances and/or articles by non-complex detonation procedures;dispose of explosive substances and/or articles by complex biological breakdown procedures;dispose of explosive substances and/or articles by complex mechanical breakdown procedures;dispose of explosive substances and/or articles by non-complex deflagration procedures;dispose of explosive substances and/or articles by non-complex biological breakdown procedures
+Carry out post-disposal tasks for explosive substances and/or articles;carry out post-trial or post-test tasks relating to explosive substances and/or articles
+Plan the disposal of explosive substances and/or articles (complex);plan the disposal of explosive substances and/or articles (non-complex)
+Carry out pre-disposal tasks for explosive substances and/or articles;carry out pre-trial or pre-test tasks relating to explosive substances and/or articles
+Make recommendations on the factors affecting the safety of specific explosive substances and/or articles
+Review safety control measures for specific explosive substances and/or articles
+Manage the trial of explosive substances and/or articles;manage the test of explosive substances and/or articles
+Carry out trials of explosive substances and/or articles;carry out tests of explosive substances and/or articles
+Evaluate the results of trials of explosive substances and/or articles;evaluate the results of tests of explosive substances and/or articles","cogesa1.10 
+cogesa1.11 
+cogesa1.12 
+cogesa1.13
+cogesa1.14
+cogesa1.4 
+cogesa1.7
+cogesa1.9
+cogesa11.1
+cogesa11.17
+cogesa11.20
+cogesa11.3
+cogesa11.4
+cogesa11.7 
+cogesa11.9
+cogesa13.11
+cogesa13.12 
+cogesa13.13
+cogesa13.17
+cogesa2.4
+cogesa3.1 
+cogesa3.13 
+cogesa3.16 
+cogesa3.20
+cogesa3.8
+cogesa3.9
+cogesa6.3
+cogesa6.5
+cogesa6.6
+cogesa6.7
+cogesa6.9 
+cogesa7.2
+['cogesa11.11', 'cogesa11.13a', 'cogesa11.15', 'cogesa11.12a', 'cogesa11.16', ' cogesa11.14 ', 'cogesa11.12', 'cogesa11.10a', 'cogesa11.11a', 'cogesa11.15a', 'cogesa11.16a', 'cogesa11.14a', 'cogesa11.13', 'cogesa11.10']
+['cogesa11.19', 'cogesa3.19']
+['cogesa11.5', 'cogesa11.6']
+['cogesa11.8 ', 'cogesa3.12']
+cogesa2.5
+cogesa2.7
+['cogesa3.10 ', 'cogesa3.11']
+['cogesa3.14 ', 'cogesa3.15']
+['cogesa3.18', 'cogesa3.17 ']","Detail-orientated
+Computer literacy
+Heat treatment
+Cleaning
+Packaging
+Communication skills
+Forklift operation
+Meeting deadlines
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Sealants
+Work area maintenance
+Heavy lifting
+Quality assurance and control
+Mixing machines
+Colour matching
+Chemistry
+Sales","Cleaning
+Packaging
+Forklift operation
+Listening
+Physical demand
+Food safety
+Chemistry
+Medical device sales","Cleaning
+Packaging
+Forklift operation
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Work area maintenance
+Colour matching
+Chemistry
+Medical device sales","Mixing operative
+Heat treatment operator
+Furnace process operative
+Coil tubing operator
+Machine and paint operative
+Cell operator
+Ink room operative
+Cosmetic scrub
+Chemical process operative
+Chemical manufacturing group",['Chemical and related process operatives'],"['Research methods and statistics', 'Health, safety and environment', 'Employee development']","(substance article, 0.391)
+ (substance, 0.391)
+ (explosive substance, 0.391)
+ (article, 0.390)
+ (explosive, 0.364)
+ (dispose explosive, 0.193)
+ (dispose, 0.193)
+ (complex, 0.169)
+ (procedure, 0.160)
+ (article complex, 0.116)","Counter({'Entry-level': 1886, 'Senior-level': 574, 'Mid-level': 533})","Counter({'Pregraduate': 1599, 'Graduate': 1394})"
+1,Pregraduate,Entry-level,24211.0,Design a new trial procedure for explosive substances and/or articles;design a new test procedure for explosive substances and/or articles;adapt an existing trial procedure for explosive substances and/or articles;adapt an existing test procedure for explosive substances and/or articles,"['cogesa3.6', 'cogesa3.4', 'cogesa3.5', 'cogesa3.3']","Demolition
+Detail-orientated
+Computer literacy
+Heat treatment
+Cleaning
+Packaging
+Communication skills
+Forklift operation
+Meeting deadlines
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Sealants
+Work area maintenance
+Heavy lifting
+Quality assurance and control
+Mixing machines
+Colour matching
+Chemistry","Cleaning
+Packaging
+Forklift operation
+Listening
+Physical demand
+Food safety
+Chemistry","Demolition
+Cleaning
+Packaging
+Forklift operation
+Listening
+Physical demand
+Coiled tubing
+Food safety
+Work area maintenance
+Colour matching
+Chemistry","Operative green red blue
+Mixing operative
+Heat treatment operator
+Furnace process operative
+Coil tubing operator
+Machine and paint operative
+Cell operator
+Ink room operative
+Cosmetic scrub
+Chemical process operative",['Chemical and related process operatives'],"['Research methods and statistics', 'Construction engineering']","(procedure explosive, 0.442)
+ (procedure, 0.367)
+ (explosive substance, 0.263)
+ (substance, 0.263)
+ (substance article, 0.263)
+ (article, 0.258)
+ (design new, 0.251)
+ (test procedure, 0.241)
+ (exist, 0.241)
+ (explosive, 0.237)","Counter({'Entry-level': 60.315068493150676, 'Senior-level': 7.095890410958904, 'Mid-level': 6.58904109589041})","Counter({'Pregraduate': 56.76712328767123, 'Graduate': 17.232876712328768})"
+2,Pregraduate,Senior-level,,Determine the existence of a suitable disposal procedure for explosive substances and/or articles;determine the existence of a suitable trial or test procedure for explosive substances and/or articles,"['cogesa3.2', 'cogesa11.2']","Packaging
+Colour matching
+Communication skills
+External auditing
+Printers
+Production management
+Spreadsheets
+Chemistry
+New product development
+Qc processes
+Quality assurance and control","Packaging
+Printers
+Spreadsheets
+Chemistry
+Product development","Packaging
+Colour matching
+External auditing
+Printers
+Production management
+Spreadsheets
+Chemistry
+New product development","Ink room operative
+Distiller",['Chemical and related process operatives'],['Manufacturing methods'],"(suitable, 0.433)
+ (procedure explosive, 0.381)
+ (determine, 0.344)
+ (procedure, 0.317)
+ (substance, 0.227)
+ (explosive substance, 0.227)
+ (substance article, 0.227)
+ (article, 0.223)
+ (disposal procedure, 0.208)
+ (test procedure, 0.208)","Counter({'Senior-level': 2, 'Entry-level': 1})","Counter({'Pregraduate': 2, 'Graduate': 1})"

@@ -1,0 +1,211 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,32408.0,"Carrying out maintenance activities on instrumentation and control equipment
+ Carrying out maintenance activities on electrical equipment within an engineered system
+ Carrying out maintenance activities on fluid power equipment within an engineered system
+ Carrying out maintenance activities on process controller equipment within an engineered system
+ Carrying out maintenance activities on mechanical equipment within an engineered system ;carrying out maintenance activities on mechanical equipment","semem4-44
+ semem4-46
+ semem4-47
+ semem4-48
+ ['semem4-41', 'semem4-45']","Mechanical engineering
+ Forklift operation
+ Preventive maintenance
+ Predictive preventative maintenance
+ Communication skills
+ Hoisting equipment
+ Lifting equipment
+ Hydraulics
+ Cleaning
+ Maintenance scheduling","Mechanical engineer
+ Maintenance engineer
+ Chief engineer
+ Workshop engineer
+ Lead engineer
+ Mechanical design engineer
+ Design engineer
+ Engineer
+ Project engineer
+ Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(maintenance activity, 0.450)
+ (carry maintenance, 0.405)
+ (equipment engineered, 0.324)
+ (activity, 0.313)
+ (maintenance, 0.303)
+ (engineered, 0.300)
+ (carry, 0.256)
+ (equipment, 0.209)
+ (mechanical equipment, 0.141)
+ (mechanical, 0.110)","Counter({'Senior-level': 3715, 'Mid-level': 3120, 'Entry-level': 465})","Counter({'Pregraduate': 5915, 'Graduate': 1385})"
+3,Pregraduate,Senior-level,43312.0,"Leading welding and fabrication activities
+ Leading rail welding activities
+ Determining welding and related technical requirements to achieve objectives
+ Solving welding problems in production
+ Determine the requirements for engineering activities;assist in determining the requirements for engineering activities
+ Assist in scheduling engineering activities ;schedule engineering activities 
+ Assist in identifying engineering design requirements of clients;identifying engineering design requirements of clients
+ Assist in establishing an engineering design brief;establish an engineering design brief
+ Support the provision of technical advice and guidance on engineering or manufacturing requirements;providing technical advice and guidance on engineering or manufacturing requirements
+ Develop a research methodology for engineering;assist in developing a research methodology for engineering
+ Investigate incidents relating to engineering activities;assist in investigating incidents relating to engineering activities
+ Leading mechanical manufacturing or inspection activities;leading electrical/electronic product manufacturing or testing activities ","semem4-37
+ semem4-38
+ semfwe3-60
+ semfwe3-63
+ ['semem4-10', 'semeng317']
+ ['semeng320', 'semem4-12']
+ ['semem4-04', 'semeng314']
+ ['semeng315', 'semem4-07']
+ ['semem4-20', 'semeng321']
+ ['semem4-22', 'semeng311']
+ ['semem4-30', 'semeng322']
+ ['semem4-39', 'semem4-35']","Planning
+ Mechanical engineering
+ Organisational skills
+ Communication skills
+ Teamwork collaboration
+ Mechanical design
+ Budgeting
+ Project management
+ Commissioning
+ Leadership","Mechanical engineer
+ Mechanical design engineer
+ Mechanical project engineer
+ Lead engineer
+ Chief engineer
+ Design engineer
+ Project engineer
+ Engineer
+ Maintenance engineer
+ Product assurance engineer",['Mechanical engineers'],"['Employee development', 'Manufacturing methods', 'Construction engineering']","(engineering, 0.406)
+ (activity, 0.321)
+ (requirement, 0.285)
+ (activity assist, 0.244)
+ (engineering activity, 0.241)
+ (engineering design, 0.235)
+ (lead, 0.227)
+ (assist, 0.213)
+ (manufacturing, 0.197)
+ (design, 0.185)","Counter({'Senior-level': 21107.645260381458, 'Mid-level': 7530.426538326494, 'Entry-level': 2188.928201292049})","Counter({'Pregraduate': 16573.08667940528, 'Graduate': 14242.806861680045, 'Postgraduate': 11.10645891467325})"
+1,Graduate,Senior-level,42946.0,"Create engineering designs
+ Obtaining resources for the implementation of engineering activities
+ Implement engineering processes
+ Monitor and evaluate engineering processes
+ Evaluate engineering risk assessments
+ Specify risk reduction methods and procedures
+ Implement quality assurance methods and procedures
+ Improve the quality of engineering products or processes
+ Identify and define areas of engineering research
+ Transfer control of engineering products, processes or facilities
+ Commission engineering products, processes or facilities
+ Monitoring welding activities in production
+ Inspecting welded components or structures for visual quality and dimensional accuracy
+ Solve engineering or manufacturing problems
+ Assist in producing engineering specifications;producing engineering specifications
+ Specify methods and procedures to achieve engineering requirements;assist in specifying methods and procedures to achieve engineering requirements
+ Assist in configuring engineering products, processes or facilities;configure engineering products, processes or facilities","semem4-08
+ semem4-13
+ semem4-14
+ semem4-15
+ semem4-16
+ semem4-17
+ semem4-18
+ semem4-19
+ semem4-21
+ semem4-27
+ semem4-31
+ semfwe3-64
+ semfwe3-65
+ semem4-03
+ ['semeng318', 'semem4-05']
+ ['semeng319', 'semem4-11']
+ ['semem4-26', 'semeng323']","Mechanical engineering
+ Mechanical design
+ Communication skills
+ Engineering design and installation
+ Engineering design
+ Solidworks
+ Project management
+ Budgeting
+ Problem solving
+ Commissioning","Mechanical design engineer
+ Mechanical engineer
+ Lead engineer
+ Design engineer
+ Engineer
+ Project engineer
+ Mechanical project engineer
+ Chief engineer
+ Tooling engineer
+ Principal engineer",['Mechanical engineers'],"['Manufacturing methods', 'Design and process engineering', 'Construction engineering']","(engineering, 0.458)
+ (product process, 0.280)
+ (engineering product, 0.280)
+ (process, 0.246)
+ (product, 0.240)
+ (process facility, 0.218)
+ (method procedure, 0.218)
+ (method, 0.197)
+ (facility, 0.192)
+ (procedure, 0.177)","Counter({'Senior-level': 269313.7432063642, 'Mid-level': 96764.4664563745, 'Entry-level': 23113.790337261267})","Counter({'Graduate': 244131.20455883633, 'Pregraduate': 144301.97999627664, 'Postgraduate': 758.81544488702})"
+2,Graduate,Senior-level,46207.0,"Propose decommissioning of engineering equipment, processes or facilities
+ Leading maintenance activities
+ Leading installation or commissioning activities
+ Assist in the planning and decommissioning of engineering equipment, processes or facilities;plan and decommission engineering equipment, processes or facilities","semem4-28
+ semem4-34
+ semem4-36
+ ['semem4-29', 'semeng324']","Mechanical engineering
+ Engineering design and installation
+ Engineering design
+ Mechanical design
+ Commissioning
+ Communication skills
+ Project management
+ Budgeting
+ Planning
+ Autocad","Mechanical engineer
+ Mechanical design engineer
+ Mechanical project engineer
+ Project engineer
+ Lead engineer
+ Piping design engineer
+ Engineer
+ Chiller engineer
+ Design engineer
+ Chief engineer",['Mechanical engineers'],"['Structural engineering', 'Health, safety and environment', 'Construction engineering']","(engineering equipment, 0.421)
+ (equipment process, 0.404)
+ (process facility, 0.380)
+ (facility, 0.334)
+ (decommissioning engineering, 0.281)
+ (decommissioning, 0.269)
+ (process, 0.245)
+ (engineering, 0.200)
+ (equipment, 0.148)
+ (activity, 0.147)","Counter({'Senior-level': 10607.807784344941, 'Mid-level': 2079.2208451595225, 'Entry-level': 701.9713704955361})","Counter({'Graduate': 7823.574907951949, 'Pregraduate': 5564.876440444552, 'Postgraduate': 0.5486516034985423})"
+4,Graduate,Senior-level,48775.0,"Planning welding production resources and activities
+ Implementing welding production methods and procedures","semfwe3-61
+ semfwe3-62","Mechanical engineering
+ Communication skills
+ Project management
+ Planning
+ Budgeting
+ Commissioning
+ Process engineering
+ Time management
+ Feasibility studies
+ Due diligence","Process engineer
+ Mechanical engineer
+ Mechanical design engineer
+ Design engineer
+ Project engineer
+ Mechanical project engineer
+ Lead engineer
+ Tooling engineer
+ Engineer
+ Chief engineer",['Mechanical engineers'],"['Biofuels', 'Employee development', 'Manufacturing methods']","(weld production, 0.574)
+ (weld, 0.444)
+ (production, 0.393)
+ (method procedure, 0.259)
+ (method, 0.234)
+ (resource, 0.225)
+ (implement, 0.212)
+ (procedure, 0.210)
+ (plan, 0.186)
+ (activity, 0.151)","Counter({'Senior-level': 5155.575014670739, 'Entry-level': 2313.9007990979508, 'Mid-level': 1171.5241862313105})","Counter({'Graduate': 6636.392996167315, 'Pregraduate': 2002.106402003123, 'Postgraduate': 2.500601829561868})"

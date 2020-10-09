@@ -1,0 +1,361 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+3,Pregraduate,Senior-level,32408.0,"Carrying out maintenance activities on instrumentation and control equipment
+Carrying out maintenance activities on electrical equipment within an engineered system
+Carrying out maintenance activities on fluid power equipment within an engineered system
+Carrying out maintenance activities on process controller equipment within an engineered system
+Carrying out maintenance activities on mechanical equipment within an engineered system ;carrying out maintenance activities on mechanical equipment","semem4-44
+semem4-46
+semem4-47
+semem4-48
+['semem4-41', 'semem4-45']","Mechanical engineering
+Forklift operation
+Preventive maintenance
+Predictive preventative maintenance
+Communication skills
+Hoisting equipment
+Lifting equipment
+Hydraulics
+Cleaning
+Maintenance scheduling
+Surveys
+Problem solving
+Planning
+Scissor lifts
+Manufacturing industry knowledge
+Budgeting
+Client base retention
+Organisational skills
+Mechanical maintenance
+Ventilation","Mechanical engineering
+Forklift operation
+Hydraulics
+Cleaning
+Surveys
+project planning and development skills
+budget planning
+Ventilation","Mechanical engineering
+Forklift operation
+Preventive maintenance
+Hoisting equipment
+Hydraulics
+Cleaning
+Maintenance scheduling
+Surveys
+Creative problem solving
+project planning and development skills
+budget planning
+Client base retention
+Ventilation","Mechanical engineer
+Maintenance engineer
+Chief engineer
+Workshop engineer
+Lead engineer
+Mechanical design engineer
+Design engineer
+Engineer
+Project engineer
+Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(maintenance activity, 0.450)
+ (carry maintenance, 0.405)
+ (equipment engineered, 0.324)
+ (activity, 0.313)
+ (maintenance, 0.303)
+ (engineered, 0.300)
+ (carry, 0.256)
+ (equipment, 0.209)
+ (mechanical equipment, 0.141)
+ (mechanical, 0.110)","Counter({'Senior-level': 3715, 'Mid-level': 3120, 'Entry-level': 465})","Counter({'Pregraduate': 5915, 'Graduate': 1385})"
+0,Pregraduate,Senior-level,43312.0,"Leading welding and fabrication activities
+Leading rail welding activities
+Determining welding and related technical requirements to achieve objectives
+Solving welding problems in production
+Determine the requirements for engineering activities;assist in determining the requirements for engineering activities
+Schedule engineering activities ;assist in scheduling engineering activities 
+Identifying engineering design requirements of clients;assist in identifying engineering design requirements of clients
+Assist in establishing an engineering design brief;establish an engineering design brief
+Support the provision of technical advice and guidance on engineering or manufacturing requirements;providing technical advice and guidance on engineering or manufacturing requirements
+Develop a research methodology for engineering;assist in developing a research methodology for engineering","semem4-37
+semem4-38
+semfwe3-60
+semfwe3-63
+['semem4-10', 'semeng317']
+['semeng320', 'semem4-12']
+['semem4-04', 'semeng314']
+['semeng315', 'semem4-07']
+['semem4-20', 'semeng321']
+['semem4-22', 'semeng311']","Planning
+Organisational skills
+Teamwork collaboration
+Communication skills
+Mechanical engineering
+Budgeting
+Leadership
+Project management
+Quality management
+Mechanical design
+Commissioning
+Writing
+Quality assurance and control
+Microsoft office
+People management
+Technical support
+Problem solving
+Scheduling
+Autocad
+Calculation","project planning and development skills
+Mechanical engineering
+budget planning
+Leadership development
+project planning and development skills
+Mechanical design
+report writing
+calculator","project planning and development skills
+Mechanical engineering
+budget planning
+Leadership development
+project planning and development skills
+Mechanical design
+report writing
+Creative problem solving
+Maintenance scheduling
+C++
+Calculation","Mechanical engineer
+Mechanical project engineer
+Mechanical design engineer
+Lead engineer
+Chief engineer
+Product assurance engineer
+Engineer
+Maintenance engineer
+Project engineer
+Design engineer",['Mechanical engineers'],"['Employee development', 'Manufacturing methods', 'Construction engineering']","(engineering, 0.423)
+ (requirement, 0.346)
+ (engineering design, 0.285)
+ (activity, 0.234)
+ (design, 0.224)
+ (assist, 0.215)
+ (engineering activity, 0.195)
+ (determine, 0.177)
+ (welding, 0.167)
+ (technical, 0.163)","Counter({'Senior-level': 11600.348787630941, 'Mid-level': 4090.732895797406, 'Entry-level': 1394.9183165716527})","Counter({'Pregraduate': 9578.000537785541, 'Graduate': 7504.870486761736, 'Postgraduate': 3.128975452723217})"
+2,Graduate,Senior-level,41790.0,"Implement engineering processes
+Monitor and evaluate engineering processes
+Specify risk reduction methods and procedures
+Implement quality assurance methods and procedures
+Improve the quality of engineering products or processes
+Transfer control of engineering products, processes or facilities
+Commission engineering products, processes or facilities
+Inspecting welded components or structures for visual quality and dimensional accuracy
+Assist in specifying methods and procedures to achieve engineering requirements;specify methods and procedures to achieve engineering requirements
+Assist in configuring engineering products, processes or facilities;configure engineering products, processes or facilities","semem4-14
+semem4-15
+semem4-17
+semem4-18
+semem4-19
+semem4-27
+semem4-31
+semfwe3-65
+['semeng319', 'semem4-11']
+['semeng323', 'semem4-26']","Mechanical engineering
+Mechanical design
+Communication skills
+Solidworks
+Project management
+Engineering management
+Manufacturing processes
+Problem solving
+Budgeting
+Planning
+Calculation
+Autocad
+Commissioning
+Machining
+Engineering support
+Packaging
+Technical support
+Teamwork collaboration
+Microsoft office
+Creativity","Mechanical engineering
+Mechanical design
+project planning and development skills
+budget planning
+project planning and development skills
+calculator
+Machining
+Packaging","Mechanical engineering
+Mechanical design
+project planning and development skills
+Engineering management
+Manufacturing processes
+Creative problem solving
+budget planning
+project planning and development skills
+Calculation
+C++
+Machining
+Engineering support
+Packaging","Mechanical design engineer
+Mechanical engineer
+Design engineer
+Project engineer
+Mechanical project engineer
+Lead engineer
+Engineer
+Tooling engineer
+Chief engineer
+Process engineer",['Mechanical engineers'],"['Manufacturing methods', 'Construction engineering', 'Research methods and statistics']","(engineering product, 0.330)
+ (product process, 0.330)
+ (engineering, 0.304)
+ (process, 0.290)
+ (product, 0.282)
+ (process facility, 0.257)
+ (method procedure, 0.257)
+ (method, 0.233)
+ (facility, 0.226)
+ (procedure, 0.209)","Counter({'Senior-level': 125726.61831317272, 'Mid-level': 51828.59663119761, 'Entry-level': 8206.785055629678})","Counter({'Graduate': 105229.45276099369, 'Pregraduate': 80335.22783762393, 'Postgraduate': 197.31940138237752})"
+1,Graduate,Senior-level,45242.0,"Propose decommissioning of engineering equipment, processes or facilities
+Leading maintenance activities
+Leading installation or commissioning activities
+Assist in the planning and decommissioning of engineering equipment, processes or facilities;plan and decommission engineering equipment, processes or facilities
+Leading electrical/electronic product manufacturing or testing activities ;leading mechanical manufacturing or inspection activities","semem4-28
+semem4-34
+semem4-36
+['semem4-29', 'semeng324']
+['semem4-39', 'semem4-35']","Mechanical engineering
+Mechanical design
+Engineering design and installation
+Engineering design
+Commissioning
+Communication skills
+Project management
+Budgeting
+Planning
+Autocad
+Teamwork collaboration
+Calculation
+Organisational skills
+Microsoft office
+Problem solving
+Hvac
+Hydraulics
+Scheduling
+Procurement
+Writing","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+budget planning
+project planning and development skills
+calculator
+Hvac
+Hydraulics
+report writing","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+budget planning
+project planning and development skills
+C++
+Calculation
+Creative problem solving
+Hvac
+Hydraulics
+Maintenance scheduling
+Procurement strategies
+report writing","Mechanical engineer
+Mechanical design engineer
+Mechanical project engineer
+Project engineer
+Lead engineer
+Design engineer
+Engineer
+Piping design engineer
+Chief engineer
+Chiller engineer",['Mechanical engineers'],"['Structural engineering', 'Health, safety and environment', 'Construction engineering']","(engineering equipment, 0.367)
+ (equipment process, 0.352)
+ (lead, 0.341)
+ (process facility, 0.331)
+ (facility, 0.291)
+ (activity, 0.257)
+ (decommissioning engineering, 0.245)
+ (decommissioning, 0.235)
+ (process, 0.214)
+ (manufacturing, 0.197)","Counter({'Senior-level': 14134.807784344941, 'Mid-level': 3246.2208451595225, 'Entry-level': 1111.9713704955361})","Counter({'Graduate': 10090.574907951948, 'Pregraduate': 8398.876440444552, 'Postgraduate': 3.5486516034985423})"
+4,Graduate,Senior-level,45603.0,"Create engineering designs
+Obtaining resources for the implementation of engineering activities
+Evaluate engineering risk assessments
+Identify and define areas of engineering research
+Planning welding production resources and activities
+Implementing welding production methods and procedures
+Monitoring welding activities in production
+Solve engineering or manufacturing problems
+Producing engineering specifications;assist in producing engineering specifications
+Assist in investigating incidents relating to engineering activities;investigate incidents relating to engineering activities","semem4-08
+semem4-13
+semem4-16
+semem4-21
+semfwe3-61
+semfwe3-62
+semfwe3-64
+semem4-03
+['semeng318', 'semem4-05']
+['semeng322', 'semem4-30']","Mechanical engineering
+Mechanical design
+Engineering design and installation
+Engineering design
+Communication skills
+Project management
+Commissioning
+Solidworks
+Original equipment manufacturer oem 
+Budgeting
+Calculation
+Autocad
+Problem solving
+Research
+Planning
+Teamwork collaboration
+3d modelling design
+Product development
+Computer aided draughting design cad 
+Customer service","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+Original equipment manufacturer oem
+budget planning
+calculator
+Product research
+project planning and development skills
+Product development
+Computer aided draughting design cad","Mechanical engineering
+Mechanical design
+Engineering design
+project planning and development skills
+Original equipment manufacturer oem
+budget planning
+Calculation
+C++
+Creative problem solving
+Stem cell research
+project planning and development skills
+3d modelling design
+Product development
+Computer aided draughting design cad","Mechanical design engineer
+Mechanical engineer
+Lead engineer
+Engineer
+Design engineer
+Mechanical project engineer
+Process engineer
+Project engineer
+Chief engineer
+Piping design engineer",['Mechanical engineers'],"['Employee development', 'Environmental planning', 'Biofuels']","(engineering, 0.474)
+ (activity, 0.292)
+ (weld, 0.258)
+ (production, 0.228)
+ (weld production, 0.222)
+ (investigate, 0.222)
+ (produce engineering, 0.222)
+ (engineering activity, 0.219)
+ (incident, 0.206)
+ (relate, 0.191)","Counter({'Senior-level': 149009.5417011753, 'Mid-level': 46160.14180776079, 'Entry-level': 17250.316491063884})","Counter({'Graduate': 145730.01523473943, 'Pregraduate': 66125.98811992635, 'Postgraduate': 563.9966453342045})"

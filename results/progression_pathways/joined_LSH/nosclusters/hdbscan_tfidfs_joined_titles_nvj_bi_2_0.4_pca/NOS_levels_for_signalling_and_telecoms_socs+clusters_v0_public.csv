@@ -1,0 +1,170 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+1,Graduate,Senior-level,43312.0,"Establish information for signal engineering maintenance and/or fault finding
+Plan signal maintenance testing activities
+Carry out installation of signalling assets
+Carry out planned maintenance of signalling assets
+Adjust signalling components and equipment to meet operational requirements
+Carry out removal of components from signalling assets
+Carry out replacement of components from signalling assets
+Assist with establishing compliance with specifications for signalling equipment
+Establish compliance with specifications for signalling assets
+Diagnose faults in signalling assets
+Establish information for telecoms engineering maintenance and/or fault finding
+Plan telecoms maintenance testing activities
+Adjust telecoms components and equipment to meet operational requirements
+Carry out removal of components from telecoms assets
+Carry out replacement of components from telecoms assets
+Conduct specified testing of telecoms systems
+Diagnose faults in telecoms assets
+Plan for further professional development in the rail industry;plan for further professional development in the rail engineering industry
+Determine requirements for the safe access to work locations for telecoms engineering;determine requirements for safe access to work locations for signal engineering
+Allocate and monitor resources for telecoms engineering activities;allocate and monitor resources for signal engineering activities
+Reinstate the work area after signal engineering activities;reinstate the work area after telecoms engineering activities
+Conduct functional testing of newly installed signalling systems;conduct maintenance testing of signalling assets
+Transfer responsibility of telecoms assets;transfer responsibility of signalling assets
+Contribute to technical leadership of signal engineering activities;contribute to technical leadership of telecoms engineering activities
+Organise local telecoms engineering activities;organise local signal engineering activities
+Carry out planned maintenance of telecoms assets;establish compliance with specifications for newly installed telecoms assets;establish compliance with specifications for maintained telecoms assets","pplres01
+pplres04
+pplres09
+pplres11
+pplres12
+pplres14
+pplres16
+pplres17
+pplres18establish compliance with specifications for signalling assets
+pplres22
+pplret01
+pplret04
+pplret12
+pplret14
+pplret16
+pplret20
+pplret21diagnose faults in telecoms assets
+['pplrec06', 'pplrs06']
+['pplret05', 'pplres05']
+['pplres06', 'pplret06']
+['pplret07', 'pplres07']
+['pplres19', 'pplres20']
+['pplres23', 'pplret22']
+['pplres24', 'pplret23']
+['pplret24', 'pplres25organise local signal engineering activities']
+['pplret19', 'pplret11', 'pplret18']","Mechanical engineering
+Communication skills
+Mechanical design
+Planning
+Project management
+Budgeting
+Commissioning
+Problem solving
+Autocad
+Civil engineering
+Teamwork collaboration
+Organisational skills
+Calculation
+Solidworks
+Electrical work
+Engineering management
+Systems engineering
+Scheduling
+Microsoft office
+Procurement","Mechanical engineering
+Mechanical design
+project planning and development skills
+project planning and development skills
+budget planning
+Civil engineering
+calculator
+Electrical work
+Systems engineering","Mechanical engineering
+Mechanical design
+project planning and development skills
+project planning and development skills
+budget planning
+Creative problem solving
+C++
+Civil engineering
+Calculation
+Electrical work
+Engineering management
+Systems engineering
+Maintenance scheduling
+Procurement strategies","Mechanical engineer
+Mechanical design engineer
+Mechanical project engineer
+Chief engineer
+Mechanical systems engineer
+Lead engineer
+Project engineer
+Design engineer
+Engineer
+Maintenance engineer","['Mechanical engineers', 'Rail transport operatives']","['Electrical work', 'Civil engineering', 'Electronics']","(signal, 0.383)
+ (telecom, 0.347)
+ (asset, 0.305)
+ (signal asset, 0.216)
+ (engineering, 0.200)
+ (telecom asset, 0.196)
+ (engineering activity, 0.171)
+ (activity, 0.171)
+ (telecom engineering, 0.153)
+ (signal engineering, 0.151)","Counter({'Senior-level': 70716.58812252205, 'Mid-level': 21705.728480249436, 'Entry-level': 5180.683397228519})","Counter({'Graduate': 52452.66027761552, 'Pregraduate': 45067.36809856532, 'Postgraduate': 82.97162381916503})"
+0,Graduate,Senior-level,46211.0,"Carry out installation of telecoms assets
+Establish information for telecoms engineering installation;establish information for signal engineering installation;establish information for signal engineering testing;establish information for telecoms engineering testing","pplret09
+['pplret02', 'pplret03', 'pplres02', 'pplres03']","Engineering design and installation
+Engineering design
+Mechanical engineering
+Commissioning
+Mechanical design
+Communication skills
+Project management
+Budgeting
+Autocad
+Planning
+Carbon reduction
+Problem solving
+Procurement
+Calculation
+Teamwork collaboration
+Hvac
+Renewable energy
+Piping design
+Mentoring
+Microsoft office","Engineering design
+Mechanical engineering
+Mechanical design
+project planning and development skills
+budget planning
+project planning and development skills
+calculator
+Hvac
+Renewable energy","Engineering design
+Mechanical engineering
+Mechanical design
+project planning and development skills
+budget planning
+C++
+project planning and development skills
+Carbon reduction
+Creative problem solving
+Procurement strategies
+Calculation
+Hvac
+Renewable energy","Mechanical engineer
+Mechanical design engineer
+Mechanical project engineer
+Piping design engineer
+Design engineer
+Project engineer
+Chiller engineer
+Lead engineer
+Chief engineer
+Refrigeration service engineer",['Mechanical engineers'],"['Structural engineering', 'Energy']","(establish information, 0.421)
+ (information, 0.354)
+ (establish, 0.350)
+ (installation establish, 0.239)
+ (telecom, 0.239)
+ (information telecom, 0.229)
+ (engineering test, 0.229)
+ (engineering installation, 0.229)
+ (engineering, 0.227)
+ (installation, 0.224)","Counter({'Senior-level': 5516.523445707487, 'Mid-level': 1046.6388883731508, 'Entry-level': 332.8376659193623})","Counter({'Graduate': 4301.955345082876, 'Pregraduate': 2591.9802266049637, 'Postgraduate': 2.0644283121597096})"

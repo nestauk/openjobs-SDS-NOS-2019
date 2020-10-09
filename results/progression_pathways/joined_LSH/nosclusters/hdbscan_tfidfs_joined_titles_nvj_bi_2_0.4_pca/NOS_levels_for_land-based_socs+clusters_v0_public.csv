@@ -1,0 +1,252 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+2,Pregraduate,Entry-level,26986.0,Work safely in the land-based engineering work area,lanleo1,"Welding
+Mechanical engineering
+Communication skills
+Repair
+Microsoft excel
+Presentation skills
+Report writing
+Meeting deadlines
+Microsoft word
+Planning
+Microsoft powerpoint
+Microsoft project
+Project management
+Primavera
+Primavera p6
+Microstation
+Engineering drawings
+Mig and tig welding
+Autocad
+Detail-orientated","Welding
+Mechanical engineering
+Automotive repair
+Report writing
+project planning and development skills
+Microsoft project
+project planning and development skills","Welding
+Mechanical engineering
+R
+Report writing
+project planning and development skills
+Microsoft project
+project planning and development skills
+Primavera
+Microstation
+Mig and tig welding
+C++","Mechanical engineer
+Fabricator
+Smart repairer
+Maintenance engineer
+Mechanic
+Steel fitter
+Technician
+Locksmith
+Aluminium fabricator
+Fitter",['Metal working production and maintenance fitters'],"['Construction engineering', 'Environmental planning']","(work, 0.551)
+ (engineering work, 0.436)
+ (land engineering, 0.369)
+ (work area, 0.362)
+ (area, 0.330)
+ (land, 0.295)
+ (engineering, 0.207)","Counter({'Entry-level': 2483.3741029420526, 'Mid-level': 1739.6360624739445, 'Senior-level': 1397.9898345840033})","Counter({'Pregraduate': 3139.4252464117685, 'Graduate': 2479.064033559645, 'Postgraduate': 2.510720028586743})"
+0,Pregraduate,Mid-level,26782.0,"Service and repair clutches and other transmission controlling devices on land-based equipment
+Implement organisational procedures in land-based engineering
+Service and repair land-based transport, handling and storage equipment
+Handle refrigerants
+Deliver customer care in land-based engineering","lanleo12
+lanleo2
+lanleo20
+lanleo27
+lanleo3","Welding
+Repair
+Engineering drawings
+Mig and tig welding
+Teamwork collaboration
+Communication skills
+Mechanical engineering
+Detail-orientated
+Hydraulics
+Technical drawings
+Hand tools
+Preventive maintenance
+Predictive preventative maintenance
+Mechanical maintenance
+Computer numerical control cnc 
+Problem solving
+Auto repair
+Automotive painting
+Machine tools
+Machining","Welding
+Automotive repair
+Mechanical engineering
+Hydraulics
+Hand tools
+Computer numerical control cnc
+Painting
+Machining","Welding
+R
+Mig and tig welding
+Mechanical engineering
+Hydraulics
+Technical drawings
+Hand tools
+Preventive maintenance
+Computer numerical control cnc
+Creative problem solving
+Painting
+Machine tools
+Machining","Fabricator
+Smart repairer
+Maintenance engineer
+Mechanical engineer
+Aluminium fabricator
+Mechanic
+Fitter
+Heavy plant fitter
+Steel fitter
+Mechanical electrical and trim fitter",['Metal working production and maintenance fitters'],"['Electrical work', 'Environmental planning', 'Electrical engineering']","(land, 0.475)
+ (handle, 0.337)
+ (land engineering, 0.297)
+ (service repair, 0.266)
+ (service, 0.231)
+ (repair, 0.212)
+ (control device, 0.176)
+ (transport, 0.176)
+ (storage equipment, 0.176)
+ (care, 0.176)","Counter({'Mid-level': 6128.031862745098, 'Senior-level': 3467.3504901960787, 'Entry-level': 1977.6176470588234})","Counter({'Pregraduate': 10531.72794117647, 'Graduate': 1031.2720588235293, 'Postgraduate': 10})"
+3,Pregraduate,Mid-level,26787.0,"Service and repair mechanical transmission assemblies on land-based equipment
+Service and repair land-based cutting and mowing equipment
+Service and repair land-based harvesting and processing equipment
+Service and repair land-based soil preparation, cultivation and plant establishment equipment
+Service and repair electrical systems on land-based equipment
+Service and repair electronic control and monitoring systems on land-based equipment
+Service and repair hydraulic systems on land-based equipment
+Carry out the handover and installation of land-based equipment
+Service and repair land-based treatment application equipment
+Service and repair braking systems on land-based equipment
+Service and repair wheeled and tracked steering systems on land-based equipment
+Service and repair pneumatic systems on land-based equipment","lanleo13
+lanleo17
+lanleo18
+lanleo19
+lanleo22
+lanleo23
+lanleo24
+lanleo29
+lanleo32
+lanleo14
+lanleo15
+lanleo25","Repair
+Teamwork collaboration
+Auto repair
+Paint sprayer
+Communication skills
+Automotive painting
+Civil engineering
+Cleaning
+Welding
+Forklift operation
+Hydraulics
+Vehicle maintenance
+Preventive maintenance
+Detail-orientated
+Predictive preventative maintenance
+Mechanical engineering
+Positive disposition
+Customer contact
+Organisational skills
+Self-motivation","Automotive repair
+Painting
+Civil engineering
+Cleaning
+Welding
+Forklift operation
+Hydraulics
+Mechanical engineering","R
+Paint sprayer
+Painting
+Civil engineering
+Cleaning
+Welding
+Forklift operation
+Hydraulics
+Vehicle maintenance
+Preventive maintenance
+Mechanical engineering
+Self-motivation","Smart repairer
+Mechanic
+Heavy plant fitter
+Maintenance engineer
+Fabricator
+Fitter
+Aluminium fabricator
+Mechanical electrical and trim fitter
+Mechanical engineer
+Bodyshop smart repairer",['Metal working production and maintenance fitters'],"['Driving and automotive maintenance', 'Civil engineering', 'Aviation']","(service repair, 0.468)
+ (land, 0.456)
+ (service, 0.407)
+ (repair, 0.374)
+ (land equipment, 0.353)
+ (equipment, 0.237)
+ (repair land, 0.198)
+ (repair electrical, 0.056)
+ (repair mechanical, 0.056)
+ (handover, 0.054)","Counter({'Mid-level': 7844.032828282829, 'Entry-level': 3263.4924242424245, 'Senior-level': 3179.4747474747473})","Counter({'Pregraduate': 13927.291245791246, 'Graduate': 359.7087542087542})"
+1,Pregraduate,Mid-level,28182.0,"Apply core land-based engineering principles: tools and equipment
+Apply core land-based engineering principles: material preparation, shaping and assembling
+Apply core land-based engineering principles: servicing and maintenance
+Apply core land-based engineering principles: thermal joining processes
+Service and repair land-based air-conditioning/refrigeration systems
+Apply core land-based engineering principles: mechanical principles","lanleo5
+lanleo6
+lanleo8
+lanleo9
+lanleo28
+lanleo4","Teamwork collaboration
+Organisational skills
+Prioritising tasks
+Communication skills
+Repair
+Technical support
+Extrusion
+Leadership
+Supervisory skills
+Quality management
+Aircraft maintenance
+Microsoft office
+General aviation
+Professional engineer
+Air vehicle engineering
+Aviation safety
+Meeting deadlines
+Original equipment manufacturer oem 
+Physical demand","Automotive repair
+Leadership development
+Aviation safety
+Original equipment manufacturer oem
+Physical demand","R
+Leadership development
+General aviation
+Professional engineer
+Aviation safety
+Original equipment manufacturer oem
+Physical demand","Fabricator
+Aluminium fabricator
+Site steel fitter
+Fitter
+Mechanic
+Watchmaker
+Instrument technician
+Mechanical fitter
+Smart repairer
+Engine fitter",['Metal working production and maintenance fitters'],"['Employee development', 'Aviation']","(principle, 0.405)
+ (engineering principle, 0.346)
+ (core land, 0.346)
+ (apply core, 0.346)
+ (land engineering, 0.324)
+ (land, 0.311)
+ (core, 0.309)
+ (apply, 0.257)
+ (engineering, 0.182)
+ (service, 0.101)","Counter({'Mid-level': 127, 'Senior-level': 27})","Counter({'Pregraduate': 149, 'Graduate': 5})"

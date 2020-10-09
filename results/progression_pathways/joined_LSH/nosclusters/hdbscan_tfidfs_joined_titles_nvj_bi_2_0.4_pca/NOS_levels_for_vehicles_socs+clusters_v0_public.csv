@@ -1,0 +1,255 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+1,Pregraduate,Senior-level,32408.0,"Assembling sub-assembly units to vehicles
+Spraying vehicle body surfaces
+Repairing and refurbishing commercial and passenger carrying vehicles
+Fitting ancillary units to commercial and passenger carrying vehicles
+Fitting internal and external trim and fitments to commercial and passenger carrying vehicles
+Fitting pipework systems to commercial and passenger carrying vehicles
+Modifying commercial and passenger carrying vehicles
+Producing commercial and passenger carrying vehicle body sub-assemblies;assembling commercial and passenger carrying vehicle body sub-assemblies to produce a vehicle","semaut3004
+semaut3012
+semaut3049
+semaut3050
+semaut3051
+semaut3052
+semaut3054
+['semaut3047', 'semaut3048']","Mechanical engineering
+Forklift operation
+Preventive maintenance
+Predictive preventative maintenance
+Communication skills
+Hoisting equipment
+Lifting equipment
+Hydraulics
+Cleaning
+Maintenance scheduling
+Surveys
+Problem solving
+Planning
+Scissor lifts
+Manufacturing industry knowledge
+Budgeting
+Client base retention
+Organisational skills
+Mechanical maintenance
+Ventilation","Mechanical engineering
+Forklift operation
+Hydraulics
+Cleaning
+Surveys
+project planning and development skills
+budget planning
+Ventilation","Mechanical engineering
+Forklift operation
+Preventive maintenance
+Hoisting equipment
+Hydraulics
+Cleaning
+Maintenance scheduling
+Surveys
+Creative problem solving
+project planning and development skills
+budget planning
+Client base retention
+Ventilation","Mechanical engineer
+Maintenance engineer
+Chief engineer
+Workshop engineer
+Lead engineer
+Mechanical design engineer
+Design engineer
+Engineer
+Project engineer
+Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(passenger, 0.377)
+ (commercial passenger, 0.377)
+ (commercial, 0.361)
+ (vehicle, 0.322)
+ (carrying vehicle, 0.290)
+ (passenger carrying, 0.290)
+ (carrying, 0.290)
+ (vehicle body, 0.174)
+ (sub, 0.157)
+ (body, 0.149)","Counter({'Senior-level': 5944, 'Mid-level': 4992, 'Entry-level': 744})","Counter({'Pregraduate': 9464, 'Graduate': 2216})"
+0,Pregraduate,Senior-level,37083.0,"Assembling electrical and electronic equipment to vehicles;assembling and fitting wiring looms to vehicles
+Fitting electrical and electronic components to commercial and passenger carrying vehicles","['semaut3014', 'semaut3013']
+semaut3053","Mechanical engineering
+Communication skills
+Preventive maintenance
+Forklift operation
+Hydraulics
+Predictive preventative maintenance
+Mechanical design
+Commissioning
+Planning
+Problem solving
+Budgeting
+Project management
+Hoisting equipment
+Lifting equipment
+Electrical design
+Autocad
+Mechanical maintenance
+Cleaning
+Surveys
+Maintenance scheduling","Mechanical engineering
+Forklift operation
+Hydraulics
+Mechanical design
+project planning and development skills
+budget planning
+project planning and development skills
+Electrical design
+Cleaning
+Surveys","Mechanical engineering
+Preventive maintenance
+Forklift operation
+Hydraulics
+Mechanical design
+project planning and development skills
+Creative problem solving
+budget planning
+project planning and development skills
+Hoisting equipment
+Electrical design
+C++
+Cleaning
+Surveys
+Maintenance scheduling","Mechanical engineer
+Mechanical design engineer
+Maintenance engineer
+Chief engineer
+Lead engineer
+Design engineer
+Project engineer
+Workshop engineer
+Mechanical project engineer
+Engineer",['Mechanical engineers'],"['Driving and automotive maintenance', 'Electrical engineering']","(fit, 0.314)
+ (vehicle, 0.312)
+ (electrical electronic, 0.300)
+ (electronic, 0.258)
+ (assemble, 0.247)
+ (electrical, 0.230)
+ (fit electrical, 0.212)
+ (wire loom, 0.212)
+ (assemble fit, 0.212)
+ (assemble electrical, 0.204)","Counter({'Senior-level': 7876.345478163782, 'Mid-level': 4306.256149353717, 'Entry-level': 945.398372482501})","Counter({'Pregraduate': 8963.30450036501, 'Graduate': 4160.837349164771, 'Postgraduate': 3.858150470219436})"
+2,Pregraduate,Senior-level,37126.0,Preparing vehicle body surfaces for finishing,semaut3011,"Mechanical engineering
+Communication skills
+Preventive maintenance
+Forklift operation
+Problem solving
+Predictive preventative maintenance
+Carpentry
+Plumbing
+Insulation
+Cleaning
+Planning
+Budgeting
+Teamwork collaboration
+Painting
+Scheduling
+Hoisting equipment
+Lifting equipment
+Commissioning
+Hydraulics
+Procurement","Mechanical engineering
+Forklift operation
+Carpentry
+Plumbing
+Cleaning
+project planning and development skills
+budget planning
+Painting
+Hydraulics","Mechanical engineering
+Preventive maintenance
+Forklift operation
+Creative problem solving
+Carpentry
+Plumbing
+Insulation
+Cleaning
+project planning and development skills
+budget planning
+Painting
+Maintenance scheduling
+Hoisting equipment
+Hydraulics
+Procurement strategies","Mechanical engineer
+Chief engineer
+Mechanical design engineer
+Maintenance engineer
+Piping principal design engineer
+Lead engineer and mate
+Engineer apprentice
+Door and gate engineer
+Workshop engineer
+Project engineer",['Mechanical engineers'],"['Construction', 'Driving and automotive maintenance']","(body surface, 0.455)
+ (surface finish, 0.436)
+ (vehicle body, 0.400)
+ (body, 0.343)
+ (finish, 0.321)
+ (surface, 0.319)
+ (prepare, 0.266)
+ (vehicle, 0.223)","Counter({'Senior-level': 1023.6312591081316, 'Mid-level': 472.6089478286214, 'Entry-level': 57.75979306324687})","Counter({'Pregraduate': 1042.8807490527543, 'Graduate': 511.11925094724575})"
+3,Pregraduate,Senior-level,41758.0,Diagnosing and rectifying faults in vehicle electrical and electronic systems,semaut3015,"Mechanical engineering
+Mechanical design
+Commissioning
+Hydraulics
+Communication skills
+Electrical design
+Project management
+Autocad
+Electrical engineering
+Planning
+Calculation
+Budgeting
+Technical recruiting
+Hvac
+Solidworks
+Power generation
+Problem solving
+Electrical systems
+Customer service
+Schematic diagrams","Mechanical engineering
+Mechanical design
+Hydraulics
+Electrical design
+project planning and development skills
+Electrical engineering
+project planning and development skills
+calculator
+budget planning
+Hvac","Mechanical engineering
+Mechanical design
+Hydraulics
+Electrical design
+project planning and development skills
+C++
+Electrical engineering
+project planning and development skills
+Calculation
+budget planning
+Technical recruiting
+Hvac
+Power generation
+Creative problem solving
+Electrical systems
+Schematic diagrams","Mechanical engineer
+Mechanical design engineer
+Mechanical project engineer
+Project engineer
+Design engineer
+Lead engineer
+Engineer
+Maintenance engineer
+Chief engineer
+Mechanical systems engineer",['Mechanical engineers'],['Electrical engineering'],"(diagnosing, 0.401)
+ (diagnosing rectify, 0.401)
+ (rectify fault, 0.373)
+ (vehicle electrical, 0.373)
+ (rectify, 0.328)
+ (electrical electronic, 0.284)
+ (fault, 0.259)
+ (electronic, 0.243)
+ (electrical, 0.217)
+ (vehicle, 0.197)","Counter({'Senior-level': 3527, 'Mid-level': 1167, 'Entry-level': 410})","Counter({'Pregraduate': 2834, 'Graduate': 2267, 'Postgraduate': 3})"

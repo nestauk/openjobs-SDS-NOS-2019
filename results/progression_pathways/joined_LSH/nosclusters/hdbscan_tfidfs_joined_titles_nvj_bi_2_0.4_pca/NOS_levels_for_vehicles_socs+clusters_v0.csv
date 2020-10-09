@@ -1,0 +1,101 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,32408.0,"Assembling sub-assembly units to vehicles
+ Spraying vehicle body surfaces
+ Repairing and refurbishing commercial and passenger carrying vehicles
+ Fitting ancillary units to commercial and passenger carrying vehicles
+ Fitting internal and external trim and fitments to commercial and passenger carrying vehicles
+ Fitting pipework systems to commercial and passenger carrying vehicles
+ Modifying commercial and passenger carrying vehicles
+ Assembling and fitting wiring looms to vehicles;assembling electrical and electronic equipment to vehicles
+ Assembling commercial and passenger carrying vehicle body sub-assemblies to produce a vehicle;producing commercial and passenger carrying vehicle body sub-assemblies","semaut3004
+ semaut3012
+ semaut3049
+ semaut3050
+ semaut3051
+ semaut3052
+ semaut3054
+ ['semaut3014', 'semaut3013']
+ ['semaut3047', 'semaut3048']","Mechanical engineering
+ Forklift operation
+ Preventive maintenance
+ Predictive preventative maintenance
+ Communication skills
+ Hoisting equipment
+ Lifting equipment
+ Hydraulics
+ Cleaning
+ Maintenance scheduling","Mechanical engineer
+ Maintenance engineer
+ Chief engineer
+ Workshop engineer
+ Lead engineer
+ Mechanical design engineer
+ Design engineer
+ Engineer
+ Project engineer
+ Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(vehicle, 0.363)
+ (commercial passenger, 0.353)
+ (passenger, 0.353)
+ (commercial, 0.338)
+ (carrying, 0.272)
+ (carrying vehicle, 0.272)
+ (passenger carrying, 0.272)
+ (fit, 0.183)
+ (vehicle assemble, 0.178)
+ (vehicle body, 0.163)","Counter({'Senior-level': 6687, 'Mid-level': 5616, 'Entry-level': 837})","Counter({'Pregraduate': 10647, 'Graduate': 2493})"
+2,Pregraduate,Senior-level,37126.0,Preparing vehicle body surfaces for finishing,semaut3011,"Mechanical engineering
+ Communication skills
+ Preventive maintenance
+ Forklift operation
+ Problem solving
+ Predictive preventative maintenance
+ Carpentry
+ Plumbing
+ Insulation
+ Cleaning","Mechanical engineer
+ Chief engineer
+ Mechanical design engineer
+ Maintenance engineer
+ Piping principal design engineer
+ Lead engineer and mate
+ Engineer apprentice
+ Door and gate engineer
+ Workshop engineer
+ Project engineer",['Mechanical engineers'],"['Construction', 'Driving and automotive maintenance']","(body surface, 0.454)
+ (surface finish, 0.436)
+ (vehicle body, 0.400)
+ (body, 0.343)
+ (finish, 0.324)
+ (surface, 0.318)
+ (prepare, 0.266)
+ (vehicle, 0.222)","Counter({'Senior-level': 1023.6312591081316, 'Mid-level': 472.6089478286214, 'Entry-level': 57.75979306324687})","Counter({'Pregraduate': 1042.8807490527543, 'Graduate': 511.11925094724575})"
+1,Pregraduate,Senior-level,39420.0,"Diagnosing and rectifying faults in vehicle electrical and electronic systems
+ Fitting electrical and electronic components to commercial and passenger carrying vehicles","semaut3015
+ semaut3053","Mechanical engineering
+ Mechanical design
+ Communication skills
+ Commissioning
+ Hydraulics
+ Electrical design
+ Preventive maintenance
+ Planning
+ Project management
+ Forklift operation","Mechanical engineer
+ Mechanical design engineer
+ Maintenance engineer
+ Design engineer
+ Mechanical project engineer
+ Project engineer
+ Chief engineer
+ Lead engineer
+ Engineer
+ Workshop engineer",['Mechanical engineers'],"['Electrical engineering', 'Driving and automotive maintenance']","(electrical electronic, 0.334)
+ (electronic, 0.286)
+ (electrical, 0.255)
+ (diagnosing, 0.236)
+ (fit electrical, 0.236)
+ (diagnosing rectify, 0.236)
+ (vehicle, 0.231)
+ (component commercial, 0.219)
+ (vehicle electrical, 0.219)
+ (rectify fault, 0.219)","Counter({'Senior-level': 7465.1727390818905, 'Mid-level': 3320.1280746768584, 'Entry-level': 882.6991862412506})","Counter({'Pregraduate': 7315.652250182505, 'Graduate': 4347.418674582385, 'Postgraduate': 4.929075235109718})"

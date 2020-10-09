@@ -1,0 +1,114 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Mid-level,27408.0,"Handover mechanical fire protection system to customer
+ Prepare and produce quotations for mechanical fire protection systems
+ Design systems for mechanical fire protection
+ Install mechanical fire protection","sfsmfp6
+ sfsmfp2
+ sfsmfp3
+ sfsmfp4","Water treatment
+ Forklift operation
+ Communication skills
+ Commissioning
+ Preventive maintenance
+ Predictive preventative maintenance
+ Customer service
+ Cleaning
+ Hydraulics
+ Computer literacy","Field service engineer
+ Service engineer
+ Water service engineer
+ Forklift service engineer
+ Installation and service engineer
+ Forklift field service engineer
+ Field service engineer forklift
+ Service engineer generator
+ Service engineer forklift
+ Photocopier engineer",['Electrical and electronic trades n.e.c.'],"['Driving and automotive maintenance', 'Health, safety and environment']","(mechanical fire, 0.482)
+ (fire protection, 0.473)
+ (protection, 0.438)
+ (fire, 0.433)
+ (mechanical, 0.310)
+ (prepare produce, 0.134)
+ (customer, 0.126)
+ (design, 0.106)
+ (install, 0.105)
+ (prepare, 0.082)","Counter({'Mid-level': 23043.641058969435, 'Senior-level': 5461.415988932693, 'Entry-level': 1286.942952097869})","Counter({'Pregraduate': 28726.859298778025, 'Graduate': 1060.97107211071, 'Postgraduate': 4.16962911126662})"
+1,Pregraduate,Mid-level,27579.0,Maintain and test the operational performance of mechanical fire protection,sfsmfp7,"Organisational skills
+ Technical support
+ Teamwork collaboration
+ Communication skills
+ Forklift operation
+ Customer service
+ Troubleshooting
+ Preventive maintenance
+ Predictive preventative maintenance
+ Detail-orientated","Service engineer
+ Field service engineer
+ Automatic door service engineer
+ Forklift service engineer
+ Electrical engineer
+ Photocopier engineer
+ Forklift field service engineer
+ Field service engineer forklift
+ Mobile service engineer
+ Lift service engineer",['Electrical and electronic trades n.e.c.'],"['Employee development', 'Driving and automotive maintenance']","(performance, 0.397)
+ (mechanical fire, 0.389)
+ (fire protection, 0.381)
+ (operational, 0.353)
+ (protection, 0.353)
+ (fire, 0.349)
+ (mechanical, 0.250)
+ (maintain, 0.240)
+ (test, 0.232)","Counter({'Mid-level': 5676.662501756296, 'Senior-level': 1763.1544315262927, 'Entry-level': 218.18306671741166})","Counter({'Pregraduate': 7133.9062224022855, 'Graduate': 523.021979137253, 'Postgraduate': 1.0717984604618616})"
+3,Pregraduate,Mid-level,28144.0,Establish customer requirements for a mechanical fire protection system,sfsmfp1,"Water treatment
+ Commissioning
+ Communication skills
+ Computer literacy
+ Report writing
+ Condition legionella
+ Customer service
+ Iso 14001 standards
+ Troubleshooting
+ Stock control","Service engineer
+ Field service engineer
+ Water service engineer
+ Installation and service engineer
+ Service engineer generator
+ Crane service engineer
+ Service engineer d
+ Access platform service engineer
+ Satellite service engineer
+ Powerhouse service engineer",['Electrical and electronic trades n.e.c.'],"['Health, safety and environment']","(establish customer, 0.416)
+ (customer, 0.376)
+ (mechanical fire, 0.359)
+ (fire protection, 0.352)
+ (protection, 0.326)
+ (fire, 0.322)
+ (establish, 0.305)
+ (requirement, 0.277)
+ (mechanical, 0.231)","Counter({'Mid-level': 267, 'Senior-level': 20, 'Entry-level': 16})","Counter({'Pregraduate': 298, 'Graduate': 5})"
+2,Pregraduate,Mid-level,48411.0,Commission mechanical fire protection systems,sfsmfp5,"Scheduling
+ Object-oriented analysis and design ooad 
+ Rtsa
+ Forklift operation
+ Technical support
+ Product improvement
+ Technical writing editing
+ Helicopter operations
+ Preventive maintenance
+ Communication skills","Service engineer
+ Field service engineer
+ Forklift service engineer
+ Forklift field service engineer
+ Field service engineer forklift
+ Service engineer forklift
+ Mobile service engineer
+ Photocopier engineer
+ Forklift truck service engineer
+ Forklift truck field service engineer",['Electrical and electronic trades n.e.c.'],"['Aviation', 'Driving and automotive maintenance']","(commission mechanical, 0.460)
+ (commission, 0.397)
+ (mechanical fire, 0.397)
+ (fire protection, 0.389)
+ (protection, 0.360)
+ (fire, 0.356)
+ (mechanical, 0.255)","Counter({'Mid-level': 5954.33156053184, 'Senior-level': 1074.6012596221135, 'Entry-level': 120.06717984604617})","Counter({'Pregraduate': 6952.389993002099, 'Graduate': 195.60944716585024, 'Postgraduate': 1.0005598320503848})"

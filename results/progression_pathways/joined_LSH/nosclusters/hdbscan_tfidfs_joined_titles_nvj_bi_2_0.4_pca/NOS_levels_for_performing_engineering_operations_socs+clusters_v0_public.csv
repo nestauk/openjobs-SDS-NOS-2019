@@ -1,0 +1,163 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,skills_is_public,skills_is_public_full,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+0,Pregraduate,Senior-level,41758.0,"Marking out components for fabrication
+Bending and forming plate using power operated machines
+Cutting and shaping wooden components for yachts and boats using hand tools
+Applying surface finishes to yacht and boat wooden assemblies
+Fitting seating, interior panels, soft furnishing and trim in yachts and boats
+Carrying out repairs to yacht and boat wooden components and assemblies
+Carrying out repairs to yacht and boat composite components
+Producing mechanical engineering drawings using a cad system
+Forming and assembling pipework systems
+Carrying out aircraft detail fitting activities
+Installing aircraft mechanical fasteners
+Producing aircraft detail assemblies
+Preparing and using lathes for turning operations
+Preparing and using milling machines
+Preparing and using grinding machines
+Preparing and proving cnc machine tool programs
+Preparing and using industrial robots
+Maintaining mechanical devices and equipment
+Assembling and testing fluid power systems
+Maintaining fluid power equipment
+Producing platework components and assemblies
+Cutting and shaping materials using thermal cutting equipment
+Preparing and proving cnc fabrication machine tool programs
+Preparing and using cnc fabrication machinery
+Preparing and using manual flame brazing and braze  welding equipment
+Producing electrical or electronic engineering drawings using a cad system
+Wiring and testing electrical equipment and circuits
+Forming and assembling electrical cable enclosure and support systems
+Assembling, wiring and testing electrical panels/components mounted in enclosures
+Assembling and testing electronic circuits
+Maintaining electrical equipment/systems
+Maintaining electronic equipment/systems
+Maintaining and testing process instrumentation and control devices
+Wiring and testing programmable controller based systems
+Using wood for pattern, modelmaking and other engineering applications
+Assembling pattern, model and engineering woodwork components
+Producing composite mouldings using pre-preg techniques
+Finishing surfaces by applying coatings or coverings
+Producing cad models (drawings) using a cad system
+Producing engineering project plans
+Using computer software packages to assist with engineering activities
+Conducting business improvement activities
+General machining, fitting and assembly applications
+General electrical and electronic engineering applications
+General maintenance engineering applications
+Joining public service vehicle components by mechanical processes
+Assisting in the installation of wooden furniture/outfitting units for yachts and boats;assisting in the installation of wooden furniture/outfitting units in yachts and boats
+Making components using hand tools and fitting techniques;producing components using hand fitting techniques
+Assembling mechanical components;producing mechanical assemblies
+Preparing and using manual tig or plasma-arc welding equipment;preparing and using manual metal arc welding equipment;using manual oxy-fuel gas welding equipment;using manual metal arc welding equipment;using semi-automatic mig or mag welding equipment;using manual tig welding equipment;preparing and using semi-automatic mig, mag and flux cored arc welding equipment
+Carrying out heat treatment of engineering materials;applying heat treatment to engineering materials
+Preparing and using cnc milling machines;preparing and using cnc machining centres;preparing and using cnc turning machines
+Assembling structural sub assemblies to produce a public service vehicle;fitting sub assemblies and components to public service vehicles","semfwe2-21
+semfwe2-36
+semme2116
+semme2121
+semme2122
+semme2123
+semme2124
+sempeo204
+sempeo207
+sempeo208
+sempeo209
+sempeo210
+sempeo211
+sempeo212
+sempeo213
+sempeo214
+sempeo218
+sempeo219
+sempeo220
+sempeo221
+sempeo223
+sempeo224
+sempeo225
+sempeo226
+sempeo231
+sempeo232
+sempeo233
+sempeo234
+sempeo235
+sempeo236
+sempeo237
+sempeo238
+sempeo239
+sempeo240
+sempeo241
+sempeo242
+sempeo244
+sempeo252
+sempeo261
+sempeo262
+sempeo263
+sempeo264
+sempeo265
+sempeo267
+sempeo268
+sempeo269
+['semme2119', 'semme2_119']
+['sempeo104', 'sempeo205']
+['sempeo105', 'sempeo206']
+['sempeo118', 'sempeo227', 'sempeo229', 'sempeo117', 'sempeo116', 'sempeo115', 'sempeo228']
+['sempeo254', 'sempeo135']
+['sempeo217', 'sempeo216', 'sempeo215']
+['sempeo271', 'sempeo270']","Mechanical engineering
+Mechanical design
+Communication skills
+Solidworks
+Project management
+Calculation
+Autocad
+Engineering design and installation
+Engineering design
+Budgeting
+Commissioning
+Problem solving
+3d modelling design
+Planning
+Product design
+Teamwork collaboration
+Product development
+Research
+Creativity
+Microsoft office","Mechanical engineering
+Mechanical design
+project planning and development skills
+calculator
+Engineering design
+budget planning
+project planning and development skills
+Product development
+Product research","Mechanical engineering
+Mechanical design
+project planning and development skills
+Calculation
+C++
+Engineering design
+budget planning
+Creative problem solving
+3d modelling design
+project planning and development skills
+Product design
+Product development
+Stem cell research","Mechanical design engineer
+Mechanical engineer
+Design engineer
+Project engineer
+Mechanical project engineer
+Engineer
+Mechanical systems engineer
+Lead engineer
+Chief engineer
+Principal engineer",['Mechanical engineers'],"['Electrical work', 'Electrical engineering', 'Design and process engineering']","(use, 0.344)
+ (preparing, 0.259)
+ (preparing use, 0.239)
+ (use manual, 0.149)
+ (produce, 0.142)
+ (equipment, 0.139)
+ (engineering, 0.134)
+ (assembly, 0.134)
+ (assemble, 0.132)
+ (component, 0.131)","Counter({'Senior-level': 511882.7912843123, 'Mid-level': 234144.64754247156, 'Entry-level': 55677.56117321611})","Counter({'Graduate': 475085.7586573621, 'Pregraduate': 325079.5868864041, 'Postgraduate': 1539.6544562338577})"

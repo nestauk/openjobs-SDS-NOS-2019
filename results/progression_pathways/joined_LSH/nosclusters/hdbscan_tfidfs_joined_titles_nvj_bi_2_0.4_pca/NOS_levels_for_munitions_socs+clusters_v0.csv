@@ -1,0 +1,136 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+2,Pregraduate,Entry-level,18367.0,"Use and maintain search or munition clearance equipment
+ Assist with the preparation, maintenance and use of search or munition clearance equipment","cogesa12.18 
+ cogesa12.19","Heat treatment
+ Cleaning
+ Forklift operation
+ Communication skills
+ Computer literacy
+ Detail-orientated
+ Listening
+ Physical demand
+ Mixing machines
+ Packaging","Mixing operative
+ Heat treatment operator
+ Furnace process operative
+ Chemical compounder",['Chemical and related process operatives'],['Driving and automotive maintenance'],"(clearance equipment, 0.424)
+ (search munition, 0.407)
+ (munition clearance, 0.373)
+ (clearance, 0.373)
+ (search, 0.324)
+ (munition, 0.317)
+ (assist preparation, 0.212)
+ (use, 0.191)
+ (preparation, 0.164)
+ (equipment, 0.149)","Counter({'Entry-level': 20, 'Senior-level': 14, 'Mid-level': 10})","Counter({'Pregraduate': 30, 'Graduate': 14})"
+0,Pregraduate,Entry-level,23462.0,"Plan munition clearance and search operations and programmes
+ Contribute to removing the threat of munitions
+ Move and transport munitions
+ Contribute to the movement or transportation of munitions
+ Assist with the movement and transportation of munitions
+ Plan specified targets search operations
+ Manage munition clearance and search operations and programmes
+ Manage specified targets search operations
+ Evaluate and improve the effectiveness of munition clearance and search operations and programmes
+ Organise and supervise the delivery of specified targets search plans
+ Identify and describe the area to be searched
+ Contribute to locating the disposition of potential munitions
+ Confirm the presence of munition(s)
+ Develop your competence in working with munitions or specified targets","cogesa12.1
+ cogesa12.11
+ cogesa12.12
+ cogesa12.13
+ cogesa12.17
+ cogesa12.1a
+ cogesa12.2
+ cogesa12.2a 
+ cogesa12.3
+ cogesa12.3a
+ cogesa12.6a
+ cogesa12.7
+ cogesa12.8
+ cogesa13.20","Detail-orientated
+ Computer literacy
+ Heat treatment
+ Packaging
+ Communication skills
+ Cleaning
+ Forklift operation
+ Meeting deadlines
+ Listening
+ Physical demand","Mixing operative
+ Heat treatment operator
+ Furnace process operative
+ Coil tubing operator
+ Ink room operative
+ Machine and paint operative
+ Cell operator
+ Cosmetic scrub
+ Distiller
+ Chemical process operative",['Chemical and related process operatives'],"['Aviation', 'Civil engineering', 'Employee development']","(munition, 0.495)
+ (search, 0.354)
+ (search operations, 0.292)
+ (specify target, 0.224)
+ (target, 0.216)
+ (specify, 0.202)
+ (operations programme, 0.191)
+ (clearance search, 0.184)
+ (munition clearance, 0.175)
+ (clearance, 0.175)","Counter({'Entry-level': 634.6118721461187, 'Senior-level': 214.62100456621005, 'Mid-level': 175.76712328767124})","Counter({'Pregraduate': 552.634703196347, 'Graduate': 472.365296803653})"
+4,Pregraduate,Entry-level,24211.0,Complete munitions or specified targets search reports,cogesa12.15 ,"Demolition
+ Detail-orientated
+ Computer literacy
+ Heat treatment
+ Cleaning
+ Packaging
+ Communication skills
+ Forklift operation
+ Meeting deadlines
+ Listening","Operative green red blue
+ Mixing operative
+ Heat treatment operator
+ Furnace process operative
+ Coil tubing operator
+ Machine and paint operative
+ Cell operator
+ Ink room operative
+ Cosmetic scrub
+ Chemical process operative",['Chemical and related process operatives'],"['Aviation', 'Construction engineering']","(munition specify, 0.378)
+ (report, 0.366)
+ (target search, 0.347)
+ (complete, 0.347)
+ (specify target, 0.333)
+ (target, 0.322)
+ (search, 0.301)
+ (specify, 0.301)
+ (munition, 0.295)","Counter({'Entry-level': 60.315068493150676, 'Senior-level': 7.095890410958904, 'Mid-level': 6.58904109589041})","Counter({'Pregraduate': 56.76712328767123, 'Graduate': 17.232876712328768})"
+1,Pregraduate,Entry-level,24960.0,"Assist in searching for specified targets
+ Define the boundaries of the area to be searched for munitions
+ Identify and record the location and disposition of potential munitions within boundaries","cogesa12.10a
+ cogesa12.5 
+ cogesa12.6",Demolition,Operative green red blue,['Chemical and related process operatives'],['Construction engineering'],"(boundary, 0.443)
+ (search, 0.338)
+ (munition, 0.331)
+ (disposition potential, 0.221)
+ (record, 0.221)
+ (potential munition, 0.221)
+ (disposition, 0.221)
+ (search munition, 0.212)
+ (area search, 0.212)
+ (location, 0.212)",Counter({'Entry-level': 3}),Counter({'Pregraduate': 3})
+3,Pregraduate,Senior-level,,Enable areas cleared of munitions or specified targets to be remediated,cogesa12.14,"Packaging
+ Colour matching
+ Communication skills
+ External auditing
+ Printers
+ Production management
+ Spreadsheets
+ Chemistry
+ New product development
+ Qc processes","Ink room operative
+ Distiller",['Chemical and related process operatives'],['Manufacturing methods'],"(munition specify, 0.479)
+ (specify target, 0.422)
+ (target, 0.408)
+ (specify, 0.381)
+ (area, 0.377)
+ (munition, 0.373)","Counter({'Senior-level': 2, 'Entry-level': 1})","Counter({'Pregraduate': 2, 'Graduate': 1})"

@@ -1,0 +1,116 @@
+levels,Educational requirement,Experience requirement,Avg salary,NOS titles,URN,Top skills,Top job titles,Occupation,Skills cluster,Top keywords,myExp,myEdu
+2,Pregraduate,Senior-level,32408.0,Carrying out maintenance activities on motorsport vehicle electrical equipment,sempeo259,"Mechanical engineering
+ Forklift operation
+ Preventive maintenance
+ Predictive preventative maintenance
+ Communication skills
+ Hoisting equipment
+ Lifting equipment
+ Hydraulics
+ Cleaning
+ Maintenance scheduling","Mechanical engineer
+ Maintenance engineer
+ Chief engineer
+ Workshop engineer
+ Lead engineer
+ Mechanical design engineer
+ Design engineer
+ Engineer
+ Project engineer
+ Mechanical project engineer",['Mechanical engineers'],['Driving and automotive maintenance'],"(activity motorsport, 0.420)
+ (vehicle electrical, 0.390)
+ (maintenance activity, 0.317)
+ (electrical equipment, 0.305)
+ (motorsport vehicle, 0.292)
+ (carry maintenance, 0.286)
+ (motorsport, 0.262)
+ (electrical, 0.227)
+ (activity, 0.221)
+ (maintenance, 0.214)","Counter({'Senior-level': 743, 'Mid-level': 624, 'Entry-level': 93})","Counter({'Pregraduate': 1183, 'Graduate': 277})"
+1,Pregraduate,Senior-level,41758.0,Removing and refitting electrical/electronic equipment on motorsport vehicles,semaut3069,"Mechanical engineering
+ Mechanical design
+ Commissioning
+ Hydraulics
+ Communication skills
+ Electrical design
+ Project management
+ Autocad
+ Electrical engineering
+ Planning","Mechanical engineer
+ Mechanical design engineer
+ Mechanical project engineer
+ Project engineer
+ Design engineer
+ Lead engineer
+ Engineer
+ Maintenance engineer
+ Chief engineer
+ Mechanical systems engineer",['Mechanical engineers'],['Electrical engineering'],"(remove refit, 0.390)
+ (refit, 0.383)
+ (remove, 0.326)
+ (electronic equipment, 0.323)
+ (electrical electronic, 0.320)
+ (motorsport vehicle, 0.315)
+ (motorsport, 0.283)
+ (electronic, 0.274)
+ (electrical, 0.245)
+ (vehicle, 0.222)","Counter({'Senior-level': 3527, 'Mid-level': 1167, 'Entry-level': 410})","Counter({'Pregraduate': 2834, 'Graduate': 2267, 'Postgraduate': 3})"
+0,Pregraduate,Senior-level,41843.0,"Removing and refitting transmissions on motorsport vehicles
+ Removing and refitting steering systems on motorsport vehicles
+ Removing and refitting braking systems on motorsport vehicles;removing and refitting fuel systems on motorsport vehicles","semaut3061
+ semaut3064
+ ['semaut3063', 'semaut3066']","Mechanical engineering
+ Carpentry
+ Insulation
+ Plumbing
+ Problem solving
+ Communication skills
+ Painting
+ Hand tools
+ Renovation
+ Budgeting","Mechanical engineer
+ Chief engineer
+ Mechanical design engineer
+ Piping principal design engineer
+ Lead engineer and mate
+ Engineer apprentice
+ Door and gate engineer
+ Technical engineer
+ Piping material engineer
+ Maritime engineer",['Mechanical engineers'],['Construction'],"(remove refit, 0.477)
+ (refit, 0.468)
+ (remove, 0.398)
+ (motorsport vehicle, 0.385)
+ (motorsport, 0.346)
+ (vehicle, 0.271)
+ (brake, 0.125)
+ (steer, 0.119)
+ (transmission, 0.107)
+ (fuel, 0.104)","Counter({'Senior-level': 228, 'Mid-level': 51, 'Entry-level': 3})","Counter({'Pregraduate': 150, 'Graduate': 132})"
+3,Graduate,Senior-level,47636.0,Removing and refitting motorsport engines and ancillary components,semaut3060,"Mechanical engineering
+ Original equipment manufacturer oem 
+ Research
+ Communication skills
+ Systems engineering
+ Mechanical design
+ Simulation
+ Matlab
+ System design
+ Hybrid vehicle","Lead engineer
+ Mechanical engineer
+ Mechanical design engineer
+ Engineer
+ Mechanical systems engineer
+ Principal engineer
+ Chief engineer
+ Component engineer
+ Electronics engineer
+ Design engineer",['Mechanical engineers'],"['Automotive engineering', 'Electronics']","(motorsport engine, 0.435)
+ (ancillary component, 0.383)
+ (remove refit, 0.375)
+ (refit, 0.368)
+ (ancillary, 0.319)
+ (remove, 0.313)
+ (engine, 0.292)
+ (motorsport, 0.272)
+ (component, 0.169)","Counter({'Senior-level': 1890.215262548004, 'Mid-level': 359.2829130713759, 'Entry-level': 175.50182438062038})","Counter({'Graduate': 2104.1214162812003, 'Pregraduate': 309.78537590540674, 'Postgraduate': 11.093207813392837})"
