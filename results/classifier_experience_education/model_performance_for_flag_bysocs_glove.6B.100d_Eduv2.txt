@@ -1,0 +1,17 @@
+The micro, macro and weighted F1 score for the model with flag 'bysocs' are 0.771, 0.620 and 0.778
+The macro F1 is the most demanding because is an unweighted average of the F1 scores of each class. If a minority class is not well predicted, it will decrease the macro score the most.
+
+
+The F1 score for the dummy model with strategy stratified is 0.556
+The F1 score for the dummy model with strategy most_frequent is 0.547
+The F1 score for the dummy model with strategy prior is 0.547
+The F1 score for the dummy model with strategy uniform is 0.402
+
+
+The confusion matrix for the model with flag bysocs is:
+[[0.701 0.292 0.007]
+ [0.156 0.803 0.041]
+ [0.03  0.26  0.71 ]]
+
+
+The number of jobs classified correctly is 1064470 out of a total of 1381449 (77.05%))

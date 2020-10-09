@@ -1,0 +1,12 @@
+The F1 score for the model with flag 'bysocs' is 0.761
+The F1 score for the dummy model with strategy stratified is 0.528
+The F1 score for the dummy model with strategy most_frequent is 0.519
+The F1 score for the dummy model with strategy prior is 0.519
+The F1 score for the dummy model with strategy uniform is 0.391
+The confusion matrix for the model with flag bysocs is:
+[[0.70131247 0.29209363 0.0065939 ]
+ [0.15623082 0.80763473 0.03613446]
+ [0.10937566 0.52537313 0.36525121]]
+
+
+The number of jobs classified correctly is 1049143 out of a total of 1381449 (75.95%))

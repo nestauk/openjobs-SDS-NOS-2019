@@ -1,0 +1,52 @@
+The micro, macro and weighted F1 score for the model with flag 'hybridcvmodel' are 0.862, 0.722 and 0.857
+The macro F1 is the most demanding because is an unweighted average of the F1 scores of each class. If a minority class is not well predicted, it will decrease the macro score the most.
+
+
+For the model with flag 'hybridcvmodel', the average (cross-validated) F1 score for the trained RFC models only, compute on balanced test data is 0.664
+
+
+The F1 score for the dummy model with strategy stratified is 0.527
+The F1 score for the dummy model with strategy most_frequent is 0.519
+The F1 score for the dummy model with strategy prior is 0.519
+The F1 score for the dummy model with strategy uniform is 0.391
+
+
+The confusion matrix for the model with flag hybridcvmodel is:
+[[0.76  0.237 0.002]
+ [0.054 0.937 0.009]
+ [0.061 0.584 0.354]]
+
+
+The number of jobs classified correctly is 1191470 out of a total of 1381449 (86.25%))
+
+
+Classification certainties for the whole dataset
+Number of job adverts classified with more than 0.9: 0.627
+Number of job adverts classified with more than 0.8: 0.730
+Number of job adverts classified with more than 0.7: 0.815
+Number of job adverts classified with more than 0.6: 0.904
+Number of job adverts classified with more than 0.5: 0.983
+Number of job adverts classified with more than 0.4: 1.000
+
+
+Of these, classification certainties for the data classified via RF are
+Number of job adverts classified with more than 0.9: 0.092
+Number of job adverts classified with more than 0.8: 0.186
+Number of job adverts classified with more than 0.7: 0.280
+Number of job adverts classified with more than 0.6: 0.363
+Number of job adverts classified with more than 0.5: 0.447
+Number of job adverts classified with more than 0.4: 0.465
+
+
+The nb. of data points classified via RF is 642043 (0.46%)
+Of these, 504741 jobs (78.61%) have been classified correctly
+
+
+Across the 4 folds, the number of SOC from construction matched using MAP was: 
+(14, 16, 13, 16), out of 35 occupations
+Across the 4 folds, the number of SOC from engineering matched using MAP was: 
+(9, 8, 8, 7), out of 27 occupations
+Across the 4 folds, the number of SOC from financialservices matched using MAP was: 
+(0, 0, 0, 0), out of 11 occupations
+Across the 4 folds, the number of SOC from management matched using MAP was: 
+(11, 10, 11, 11), out of 57 occupations

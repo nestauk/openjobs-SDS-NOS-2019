@@ -1,0 +1,96 @@
+
+
+'Nurses' (2231) was matched to 'Graduate' 92.81% of the time (out of 384085 occurrences)
+
+
+'Management consultants and business analysts' (2423) was matched to 'Graduate' 93.78% of the time (out of 133030 occurrences)
+
+
+'Architects' (2431) was matched to 'Graduate' 90.54% of the time (out of 6069 occurrences)
+
+
+'Agricultural and fishing trades n.e.c.' (5119) was matched to 'Pregraduate' 90.91% of the time (out of 11 occurrences)
+
+
+'Smiths and forge workers' (5211) was matched to 'Pregraduate' 100.00% of the time (out of 1 occurrences)
+
+
+'Metal plate workers, and riveters' (5214) was matched to 'Pregraduate' 100.00% of the time (out of 3 occurrences)
+
+
+'Vehicle technicians, mechanics and electricians' (5231) was matched to 'Pregraduate' 98.90% of the time (out of 53668 occurrences)
+
+
+'Electricians and electrical fitters' (5241) was matched to 'Pregraduate' 93.52% of the time (out of 31799 occurrences)
+
+
+'Steel erectors' (5311) was matched to 'Pregraduate' 94.51% of the time (out of 255 occurrences)
+
+
+'Bricklayers and masons' (5312) was matched to 'Pregraduate' 97.32% of the time (out of 1045 occurrences)
+
+
+'Roofers, roof tilers and slaters' (5313) was matched to 'Pregraduate' 95.58% of the time (out of 1245 occurrences)
+
+
+'Plumbers and heating and ventilating engineers' (5314) was matched to 'Pregraduate' 97.05% of the time (out of 17119 occurrences)
+
+
+'Carpenters and joiners' (5315) was matched to 'Pregraduate' 97.03% of the time (out of 13126 occurrences)
+
+
+'Glaziers, window fabricators and fitters' (5316) was matched to 'Pregraduate' 95.25% of the time (out of 653 occurrences)
+
+
+'Plasterers' (5321) was matched to 'Pregraduate' 98.06% of the time (out of 1238 occurrences)
+
+
+'Floorers and wall tilers' (5322) was matched to 'Pregraduate' 96.77% of the time (out of 402 occurrences)
+
+
+'Painters and decorators' (5323) was matched to 'Pregraduate' 96.93% of the time (out of 5999 occurrences)
+
+
+'Chefs' (5434) was matched to 'Pregraduate' 90.74% of the time (out of 2766 occurrences)
+
+
+'Catering and bar managers' (5436) was matched to 'Pregraduate' 98.08% of the time (out of 2288 occurrences)
+
+
+'Glass and ceramics makers, decorators and finishers' (5441) was matched to 'Pregraduate' 100.00% of the time (out of 7 occurrences)
+
+
+'Furniture makers and other craft woodworkers' (5442) was matched to 'Pregraduate' 91.85% of the time (out of 368 occurrences)
+
+
+'Sports and leisure assistants' (6211) was matched to 'Pregraduate' 93.44% of the time (out of 747 occurrences)
+
+
+'Food, drink and tobacco process operatives' (8111) was matched to 'Pregraduate' 92.89% of the time (out of 380 occurrences)
+
+
+'Process operatives n.e.c.' (8119) was matched to 'Graduate' 100.00% of the time (out of 1 occurrences)
+
+
+'Water and sewerage plant operatives' (8126) was matched to 'Pregraduate' 100.00% of the time (out of 10 occurrences)
+
+
+'Plant and machine operatives n.e.c.' (8129) was matched to 'Pregraduate' 90.99% of the time (out of 111 occurrences)
+
+
+'Scaffolders, stagers and riggers' (8141) was matched to 'Pregraduate' 96.32% of the time (out of 163 occurrences)
+
+
+'Crane drivers' (8221) was matched to 'Pregraduate' 90.42% of the time (out of 167 occurrences)
+
+
+'Industrial cleaning process occupations' (9132) was matched to 'Pregraduate' 100.00% of the time (out of 2 occurrences)
+
+
+'Leisure and theme park attendants' (9275) was matched to 'Pregraduate' 94.78% of the time (out of 134 occurrences)
+
+
+Number of occupations matched: 30
+
+
+Total job adverts covered by this model: 656892 out of 1381449 (47.55%)

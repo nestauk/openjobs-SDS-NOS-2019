@@ -1,0 +1,21 @@
+
+
+'Managers and proprietors in forestry, fishing and related services' (1213) was matched to 'Entry-level' 100.00% of the time (out of 1 occurrences)
+
+
+'Officers of non-governmental organisations' (4114) was matched to 'Mid-level' 100.00% of the time (out of 2 occurrences)
+
+
+'Smiths and forge workers' (5211) was matched to 'Mid-level' 100.00% of the time (out of 1 occurrences)
+
+
+'Metal plate workers, and riveters' (5214) was matched to 'Mid-level' 100.00% of the time (out of 2 occurrences)
+
+
+'Industrial cleaning process occupations' (9132) was matched to 'Senior-level' 100.00% of the time (out of 1 occurrences)
+
+
+Number of occupations matched: 5
+
+
+Total job adverts covered by this model: 7 out of 825491 (0.00%)
