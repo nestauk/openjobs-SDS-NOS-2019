@@ -1,0 +1,643 @@
+4346 out of 41664 skills were found
+{'communication': 9005, 'writing': 1038, 'planning': 8830, 'research': 1809, 'problem solving': 751, 'project management': 318, 'self-starter': 0, 'customer service': 547, 'computer skills': 0, 'budgeting': 1126, 'teaching': 221, 'leadership': 1307, 'mathematics': 69}
+The less common third level clusters are:
+autoimmune cardiovascular disease      6
+cardiac surgery                        7
+molecular biology of cancer            8
+accounting software                   16
+windows programming tools             18
+web content management                19
+gynecology and urology                20
+chromosome examination                22
+cell examination                      23
+cell biology                          23
+windows programming methods           24
+patient support                       25
+medical coding                        31
+app development                       39
+cardiology                            52
+flow cytometry                        52
+infectious diseases                   54
+endodontics and dental appliances     56
+servers and middleware                60
+oncology                              60
+molecular biology processes           64
+microfluidics                         66
+biomedical research                   68
+intelligence                          69
+surgical procedures                   74
+pharmacy                              74
+genomics and dna sequencing           76
+screening and immunisation            80
+insurance and lending                 85
+synthetic biology                     87
+ophthalmology                         96
+neurological disorders                97
+solar and wind energy                100
+it security implementation           104
+nephrology                           112
+prosthodontics and orthodontics      114
+patient assistance and care          127
+anesthesiology                       129
+clinical information systems         132
+biochemistry                         135
+developmental biology                140
+reproductive health                  140
+nanotechnology                       144
+tissue culture                       150
+gastroenterology                     153
+payroll and tax accounting           156
+speech and hearing therapy           159
+autoimmune conditions                159
+public health programmes             168
+pathology                            184
+dtype: int64
+TL clusters that are never mentioned are: 
+{'treatment of aneurysms', 'biofuels', 'medical device sales'}
+
+Which clusters contain most of the skills not mentioned?
+mainframe programming                 4658
+servers and middleware                1943
+welding and machining                 1279
+driving and automotive maintenance     982
+accounting software                    885
+software development                   848
+bi and data warehousing                837
+networks                               803
+languages                              793
+construction                           736
+marketing research                     704
+electronics                            702
+it support                             639
+recruitment                            592
+laboratory techniques                  550
+system administration                  549
+logistics administration               539
+teaching                               488
+windows programming methods            433
+multimedia production                  413
+Name: consensus_cluster, dtype: int64
+
+Now by percentage of skills missed
+                              consensus_cluster
+treatment of aneurysms                 1.000000
+biofuels                               1.000000
+medical device sales                   1.000000
+servers and middleware                 0.995900
+accounting software                    0.995501
+windows programming methods            0.990847
+windows programming tools              0.984252
+microfluidics                          0.981707
+clinical information systems           0.980916
+it security standards                  0.980874
+app development                        0.977778
+mainframe programming                  0.976725
+bi and data warehousing                0.974389
+cell biology                           0.970149
+public health programmes               0.967742
+
+medical coding                         0.963964
+system administration                  0.959790
+cell examination                       0.955882
+pharmacy                               0.954887
+genomics and dna sequencing            0.951220
+
+
+**********************************************************************
+Nb of third level clusters never matched is 16
+These clusters are:
+{'endodontics and dental appliances', 'chromosome examination', 'cardiac surgery', 'molecular biology of cancer', 'autoimmune cardiovascular disease', 'autoimmune conditions', 'accounting software', 'cell biology', 'cell examination', 'windows programming methods', 'app development', 'medical device sales', 'flow cytometry', 'treatment of aneurysms', 'biofuels', 'solar and wind energy'}
+
+------------------------------
+Nb of second level clusters never matched is 3
+These clusters are:
+{'biofuels', 'chromosome and cell examination', 'autoimmunity'}
+**********************************************************************
+
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+After removing m-grams in n-grams with n>m
+
+
+4331 out of 41664 skills were found
+{'communication': 9005, 'writing': 1038, 'planning': 8830, 'research': 1809, 'problem solving': 751, 'project management': 318, 'self-starter': 0, 'customer service': 547, 'computer skills': 0, 'budgeting': 1126, 'teaching': 221, 'leadership': 1307, 'mathematics': 69}
+The less common third level clusters are:
+autoimmune cardiovascular disease      6
+cardiac surgery                        7
+molecular biology of cancer            8
+accounting software                   16
+windows programming tools             18
+web content management                19
+gynecology and urology                20
+chromosome examination                22
+cell biology                          23
+cell examination                      23
+windows programming methods           24
+patient support                       25
+medical coding                        31
+app development                       37
+flow cytometry                        52
+cardiology                            52
+infectious diseases                   54
+endodontics and dental appliances     56
+servers and middleware                59
+oncology                              60
+molecular biology processes           64
+microfluidics                         66
+biomedical research                   68
+intelligence                          69
+surgical procedures                   74
+pharmacy                              74
+genomics and dna sequencing           76
+screening and immunisation            80
+synthetic biology                     85
+insurance and lending                 85
+neurological disorders                93
+ophthalmology                         95
+solar and wind energy                100
+it security implementation           103
+nephrology                           107
+prosthodontics and orthodontics      114
+patient assistance and care          127
+anesthesiology                       129
+clinical information systems         132
+biochemistry                         132
+reproductive health                  140
+developmental biology                140
+nanotechnology                       143
+tissue culture                       150
+gastroenterology                     150
+payroll and tax accounting           156
+speech and hearing therapy           157
+pathophysiology                      159
+autoimmune conditions                159
+public health programmes             168
+dtype: int64
+TL clusters that are never mentioned are: 
+{'treatment of aneurysms', 'biofuels', 'medical device sales'}
+
+Which clusters contain most of the skills not mentioned?
+mainframe programming                 4659
+servers and middleware                1943
+welding and machining                 1279
+driving and automotive maintenance     982
+accounting software                    885
+software development                   849
+bi and data warehousing                837
+networks                               804
+languages                              793
+construction                           736
+marketing research                     705
+electronics                            702
+it support                             639
+recruitment                            592
+laboratory techniques                  550
+system administration                  550
+logistics administration               539
+teaching                               488
+windows programming methods            433
+multimedia production                  414
+Name: consensus_cluster, dtype: int64
+
+Now by percentage of skills missed
+                              consensus_cluster
+treatment of aneurysms                 1.000000
+biofuels                               1.000000
+medical device sales                   1.000000
+servers and middleware                 0.995900
+accounting software                    0.995501
+windows programming methods            0.990847
+windows programming tools              0.984252
+app development                        0.983333
+microfluidics                          0.981707
+clinical information systems           0.980916
+it security standards                  0.980874
+mainframe programming                  0.976934
+bi and data warehousing                0.974389
+cell biology                           0.970149
+public health programmes               0.967742
+medical coding                         0.963964
+system administration                  0.961538
+cell examination                       0.955882
+pharmacy                               0.954887
+genomics and dna sequencing            0.951220
+**********************************************************************
+Nb of third level clusters never matched is 15
+These clusters are:
+{'endodontics and dental appliances', 'chromosome examination', 'cardiac surgery', 'molecular biology of cancer', 'autoimmune cardiovascular disease', 'autoimmune conditions', 'accounting software', 'cell biology', 'cell examination', 'windows programming methods', 'app development', 'medical device sales', 'flow cytometry', 'treatment of aneurysms', 'biofuels'}
+
+------------------------------
+Nb of second level clusters never matched is 3
+These clusters are:
+{'biofuels', 'chromosome and cell examination', 'autoimmunity'}
+**********************************************************************
+/Users/stefgarasto/Google Drive/Documents/scripts/BG/analysis_NOS_vs_skills_clusters.py:1315: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  A = A/max(abs(A[A<1e10]))
+data engineering
+it security operations
+flow cytometry
+patient assistance and care
+phlebotomy
+mental health
+physiotherapy and beauty
+dental assistance
+recruitment
+56
+comparison ratio for high growth clusters:
+data engineering 0.014229605012985092
+it security operations -0.013635124079629123
+flow cytometry 1.0
+patient assistance and care 0.33294768892227977
+phlebotomy -0.017963347513154974
+mental health -0.010123874692389961
+physiotherapy and beauty -0.020741282303951173
+dental assistance -0.06815464328417696
+recruitment -0.05424745111148254
+------------------------------
+growth for highly underrepresented clusters:
+web development 1.5530843170763433
+servers and middleware 1.1187878673708949
+autoimmune cardiovascular disease 1.3623318385650225
+autoimmune conditions 1.4965034965034965
+medical device sales 1.624591110255917
+molecular biology of cancer 1.607501002807862
+app development 1.5253921024761712
+endodontics and dental appliances 0.4755011135857461
+flow cytometry 1.9312011044638748
+windows programming methods 0.8860957830914913
+cardiac surgery 1.1030476765238382
+cell biology 1.6749495459132189
+cell examination 0.46653543307086615
+biofuels 0.3738562091503268
+accounting software 1.5320580824824295
+chromosome examination 0.32748538011695905
+treatment of aneurysms 0.9876543209876543
+
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+After removing m-grams in n-grams with n>m AND removing some skills from LANGUAGES
+
+
+4330 out of 41664 skills were found
+{'communication': 9005, 'writing': 1038, 'planning': 8830, 'research': 1809, 'problem solving': 751, 'project management': 318, 'self-starter': 0, 'customer service': 547, 'computer skills': 0, 'budgeting': 1126, 'teaching': 221, 'leadership': 1307, 'mathematics': 69}
+The less common third level clusters are:
+autoimmune cardiovascular disease      6
+cardiac surgery                        7
+accounting software                   16
+molecular biology of cancer           16
+windows programming tools             18
+web content management                19
+gynecology and urology                20
+chromosome examination                22
+cell biology                          23
+cell examination                      23
+windows programming methods           24
+patient support                       25
+medical coding                        31
+app development                       37
+flow cytometry                        52
+cardiology                            52
+infectious diseases                   54
+endodontics and dental appliances     56
+servers and middleware                59
+oncology                              60
+molecular biology processes           64
+microfluidics                         66
+biomedical research                   68
+intelligence                          69
+surgical procedures                   74
+pharmacy                              74
+genomics and dna sequencing           76
+screening and immunisation            80
+synthetic biology                     85
+insurance and lending                 85
+neurological disorders                93
+ophthalmology                         95
+solar and wind energy                100
+it security implementation           103
+nephrology                           107
+prosthodontics and orthodontics      114
+patient assistance and care          127
+anesthesiology                       129
+clinical information systems         132
+biochemistry                         132
+reproductive health                  140
+developmental biology                140
+nanotechnology                       143
+tissue culture                       150
+gastroenterology                     150
+payroll and tax accounting           156
+speech and hearing therapy           157
+autoimmune conditions                159
+pathophysiology                      159
+public health programmes             168
+dtype: int64
+TL clusters that are never mentioned are: 
+{'treatment of aneurysms', 'biofuels', 'medical device sales'}
+
+Which clusters contain most of the skills not mentioned?
+                                    consensus_cluster    growth  prop_jobs
+mainframe programming                            4659  1.234586      0.051
+servers and middleware                           1943  1.118788      0.322
+welding and machining                            1279  1.131164      1.104
+driving and automotive maintenance                983  1.476861      4.212
+accounting software                               885  1.532058      0.160
+software development                              849  1.365185      5.289
+bi and data warehousing                           837  1.308331      1.372
+networks                                          804  1.372294      1.083
+languages                                         787  1.201815      0.876
+construction                                      737  1.427844      0.927
+marketing research                                705  1.671412      0.358
+electronics                                       702  1.257874      1.094
+it support                                        639  1.334448      1.309
+recruitment                                       592  1.811144      0.496
+laboratory techniques                             550  1.633384      0.135
+system administration                             550  1.450359      2.080
+logistics administration                          539  1.522542      0.815
+teaching                                          488  1.234641      1.623
+windows programming methods                       433  0.886096      0.012
+multimedia production                             414  1.234706      0.493
+business analysis and it projects                 404  1.353807      2.542
+retail management                                 396  1.245787      1.262
+web development                                   395  1.553084      1.872
+legacy mainframe                                  374  1.316485      0.007
+digital content authoring                         365  1.205264      0.146
+
+Now by percentage of skills missed
+                              consensus_cluster    growth  prop_jobs
+treatment of aneurysms                 1.000000  0.164609   0.000000
+biofuels                               1.000000  0.007789   0.000021
+medical device sales                   1.000000  0.018673   0.000667
+servers and middleware                 0.995900  0.000573   0.000165
+accounting software                    0.995501  0.001723   0.000180
+windows programming methods            0.990847  0.002028   0.000027
+windows programming tools              0.984252  0.003769   0.000051
+app development                        0.983333  0.008474   0.000922
+microfluidics                          0.981707  0.008184   0.001518
+clinical information systems           0.980916  0.005351   0.000103
+it security standards                  0.980874  0.003847   0.000191
+mainframe programming                  0.976934  0.000259   0.000011
+bi and data warehousing                0.974389  0.001523   0.001597
+cell biology                           0.970149  0.024999   0.000149
+public health programmes               0.967742  0.012042   0.000008
+medical coding                         0.963964  0.011240   0.000351
+system administration                  0.961538  0.002536   0.003636
+cell examination                       0.955882  0.003430   0.000007
+pharmacy                               0.954887  0.011649   0.001090
+genomics and dna sequencing            0.951220  0.021308   0.000195
+web development                        0.947242  0.003724   0.004489
+insurance and lending                  0.946429  0.006062   0.001476
+premises security                      0.946128  0.004258   0.000034
+networks                               0.942556  0.001609   0.001270
+gynecology and urology                 0.942029  0.018851   0.001435
+
+**********************************************************************
+Nb of third level clusters never matched is 15
+These clusters are:
+{'endodontics and dental appliances', 'chromosome examination', 'cardiac surgery', 'molecular biology of cancer', 'autoimmune cardiovascular disease', 'autoimmune conditions', 'accounting software', 'cell biology', 'cell examination', 'windows programming methods', 'app development', 'medical device sales', 'flow cytometry', 'treatment of aneurysms', 'biofuels'}
+
+------------------------------
+Nb of second level clusters never matched is 3
+These clusters are:
+{'biofuels', 'chromosome and cell examination', 'autoimmunity'}
+**********************************************************************
+/Users/stefgarasto/Google Drive/Documents/scripts/BG/analysis_NOS_vs_skills_clusters.py:1324: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame
+
+See the caveats in the documentation: http://pandas.pydata.org/pandas-docs/stable/indexing.html#indexing-view-versus-copy
+  numeric_df['Proportion of NOS'][numeric_df['Proportion of NOS'].isnull()] = 0
+data engineering
+it security operations
+flow cytometry
+patient assistance and care
+phlebotomy
+mental health
+physiotherapy and beauty
+dental assistance
+recruitment
+60
+comparison ratio for high growth clusters:
+data engineering 0.01583215046152089
+it security operations -0.016235032024505706
+flow cytometry 1.0
+patient assistance and care 0.5556666438059523
+phlebotomy -0.019566425792106726
+mental health -0.011721856411235163
+physiotherapy and beauty -0.03406368682442302
+dental assistance -0.08058608058608056
+recruitment -0.06273041474654377
+------------------------------
+growth for highly underrepresented clusters:
+patient assistance and care 2.037241900009848
+system administration 1.450358665581258
+servers and middleware 1.1187878673708949
+autoimmune conditions 1.4965034965034965
+autoimmune cardiovascular disease 1.3623318385650225
+cell biology 1.6749495459132189
+biofuels 0.3738562091503268
+cardiac surgery 1.1030476765238382
+molecular biology of cancer 1.607501002807862
+endodontics and dental appliances 0.4755011135857461
+windows programming methods 0.8860957830914913
+cell examination 0.46653543307086615
+flow cytometry 1.9312011044638748
+medical device sales 1.624591110255917
+app development 1.5253921024761712
+accounting software 1.5320580824824295
+chromosome examination 0.32748538011695905
+treatment of aneurysms 0.9876543209876543
+
+---------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
+After removing m-grams in n-grams with n>m AND removing some skills from LANGUAGES
+AND removing some skills from low vision support
+
+4330 out of 41664 skills were found
+{'communication': 9005, 'writing': 1038, 'planning': 8830, 'research': 1809, 'problem solving': 751, 'project management': 318, 'self-starter': 0, 'customer service': 547, 'computer skills': 0, 'budgeting': 1126, 'teaching': 221, 'leadership': 1307, 'mathematics': 69}
+The less common third level clusters are:
+driving and automotive maintenance          8733
+construction                                8310
+business management                         6580
+claims administration                       6251
+audit and compliance                        5922
+electrical engineering                      5751
+hr management                               5593
+electrical work                             4608
+employee development                        4568
+manufacturing methods                       4204
+welding and machining                       3999
+shipping and warehouse operations           3951
+procurement                                 3214
+health, safety and environment              3036
+recruitment                                 3025
+social work and caregiving                  3025
+languages                                   3006
+marketing strategy and branding             2730
+extracurricular activities and childcare    2491
+mainframe programming                       2403
+data engineering                            2319
+office administration                       2212
+heating, ventilation and plumbing           2083
+multimedia production                       2054
+teaching                                    2043
+animation                                   2033
+oil and gas extraction                      1993
+it support                                  1885
+graphic and digital design                  1744
+accounting admin                            1707
+electronics                                 1674
+energy                                      1494
+retail                                      1464
+civil engineering                           1363
+supply chain management                     1329
+aviation                                    1318
+physiotherapy and beauty                    1316
+archiving and libraries                     1282
+environmental planning                      1267
+mental health                               1263
+structural engineering                      1205
+financial asset management                  1156
+it security standards                       1121
+networks                                    1077
+business analysis and it projects           1059
+software development                        1040
+general sales                               1002
+phlebotomy                                   969
+retail management                            968
+legacy mainframe                             957
+Name: 0, dtype: int64
+TL clusters that are never mentioned are: 
+{'treatment of aneurysms', 'biofuels', 'medical device sales'}
+
+Which clusters contain most of the skills not mentioned?
+                                    consensus_cluster    growth  prop_jobs
+mainframe programming                            4659  1.234586      0.051
+servers and middleware                           1943  1.118788      0.322
+welding and machining                            1279  1.131164      1.104
+driving and automotive maintenance                983  1.476861      4.212
+accounting software                               885  1.532058      0.160
+software development                              849  1.365185      5.289
+bi and data warehousing                           837  1.308331      1.372
+networks                                          804  1.372294      1.083
+languages                                         787  1.201815      0.876
+construction                                      739  1.427844      0.927
+marketing research                                705  1.671412      0.358
+electronics                                       702  1.257874      1.094
+it support                                        639  1.334448      1.309
+recruitment                                       592  1.811144      0.496
+laboratory techniques                             550  1.633384      0.135
+system administration                             550  1.450359      2.080
+logistics administration                          539  1.522542      0.815
+teaching                                          488  1.234641      1.623
+windows programming methods                       433  0.886096      0.012
+multimedia production                             415  1.234706      0.493
+business analysis and it projects                 404  1.353807      2.542
+retail management                                 396  1.245787      1.262
+web development                                   395  1.553084      1.872
+legacy mainframe                                  374  1.316485      0.007
+digital content authoring                         365  1.205264      0.146
+
+Now by percentage of skills missed
+                              consensus_cluster    growth  prop_jobs
+treatment of aneurysms                 1.000000  0.164609   0.000000
+biofuels                               1.000000  0.007789   0.000021
+medical device sales                   1.000000  0.018673   0.000667
+servers and middleware                 0.995900  0.000573   0.000165
+accounting software                    0.995501  0.001723   0.000180
+windows programming methods            0.990847  0.002028   0.000027
+windows programming tools              0.984252  0.003769   0.000051
+app development                        0.983333  0.008474   0.000922
+microfluidics                          0.981707  0.008184   0.001518
+clinical information systems           0.980916  0.005351   0.000103
+it security standards                  0.980874  0.003847   0.000191
+mainframe programming                  0.976934  0.000259   0.000011
+bi and data warehousing                0.974389  0.001523   0.001597
+cell biology                           0.970149  0.024999   0.000149
+public health programmes               0.967742  0.012042   0.000008
+medical coding                         0.963964  0.011240   0.000351
+system administration                  0.961538  0.002536   0.003636
+cell examination                       0.955882  0.003430   0.000007
+pharmacy                               0.954887  0.011649   0.001090
+genomics and dna sequencing            0.951220  0.021308   0.000195
+web development                        0.947242  0.003724   0.004489
+insurance and lending                  0.946429  0.006062   0.001476
+premises security                      0.946128  0.004258   0.000034
+networks                               0.942556  0.001609   0.001270
+gynecology and urology                 0.942029  0.018851   0.001435
+**********************************************************************
+Nb of third level clusters never matched is 15
+These clusters are:
+{'endodontics and dental appliances', 'chromosome examination', 'cardiac surgery', 'molecular biology of cancer', 'autoimmune cardiovascular disease', 'autoimmune conditions', 'accounting software', 'cell biology', 'cell examination', 'windows programming methods', 'app development', 'medical device sales', 'flow cytometry', 'treatment of aneurysms', 'biofuels'}
+
+------------------------------
+Nb of second level clusters never matched is 3
+These clusters are:
+{'biofuels', 'chromosome and cell examination', 'autoimmunity'}
+**********************************************************************
+
+----------------------------------------------------------------------
+Comparison ratio for high growth clusters.
+(nan = 0 NOS)
+
+marketing research 0.9048222915310006
+digital marketing 0.5351375112283318
+data engineering 0.6689591030487129
+web development 0.023596035865974512
+it security operations 1.492483765651347
+it security implementation 1.741539679398377
+biotechnology manufacturing 0.5430956451775117
+laboratory techniques 1.3087934560327197
+tomography and microscopy 2.8045574057844
+molecular biology processes 1.4022787028921997
+histology 1.6359918200408998
+biomedical research 0.9815950920245399
+genomics and dna sequencing 0.6134969325153374
+automotive engineering 2.3712690425311918
+electrical work 5.682319616244145
+patient assistance and care 0.01906009887426291
+diagnostic imaging 1.514807240778611
+surgery 0.17365276302110108
+medical device sales nan
+phlebotomy 1.8715237163113796
+nutrition and diabetes management 2.1813224267212
+mental health 1.0819184381032
+physiotherapy and beauty 3.1916895630245774
+neurological disorders 0.2260251856635454
+dermatology 0.14295074155697182
+dental assistance 7.928268050967439
+recruitment 6.570354245002968
+accounting admin 0.19956779648725864
+accounting and financial management 0.15300235241116833
+payroll and tax accounting 0.13648430089328975
+------------------------------
+Growth for highly underrepresented clusters:
+
+servers and middleware 1.1187878673708949
+system administration 1.450358665581258
+patient assistance and care 2.037241900009848
+web development 1.5530843170763433
+oncology 1.5083585484667053
+ophthalmology 1.4477347596613652
+gynecology and urology 1.300750262188399
+microfluidics 1.3422240845576288
+software development 1.3651849478898788
+bi and data warehousing 1.3083309266307745
+prosthodontics and orthodontics 1.4298030597582623
+medical coding 1.247638549441839
+complex sales 1.4026562837608838
+payroll and tax accounting 1.7250669416206341
+event planning 1.4364467713613707
+dermatology 1.6213334038978051
+screening and immunisation 1.1344328492834828
+accounting and financial management 1.5645148017087238
+design and process engineering 1.089326307269423
+general sales 1.2910144450531484
+surgery 1.6202984480090699
+accounting admin 1.6147790302379674
+
+
