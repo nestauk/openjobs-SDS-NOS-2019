@@ -57,11 +57,14 @@ For more information, see the <a href="https://drive.google.com/file/d/1HMO0NAeD
 
 ## Relevant information for DfE project
 1. Detection of near duplicates. TODO
+
 Add where to find script and what to improve. Needs updating. Specifically, it was created to work with short texts originally. I used it on long texts, but because the intention since the beginning was to have a human reviewing the results. It might need to be assessed for accuracy and, if needed, changed if used on long texts with no human in the loop
 
 2. Predictive model for Education and Experience requirements. TODO
-ADD description from email. Add where to find some results and how to read them. Add ethical caveats and why is not recommended.
+
+ADD description from email. Add where to find some scripts, results and how to read them. Add ethical caveats and why is not recommended.
 Specifically, estimating educational requirement for individual job adverts might solidify the "status quo". For example, since most data science jobs require a master at the moment then all data science jobs will be predicted to require a master, when it might/should not be the case
 
 3. Finding exact occurrences of skills from pre-defined list within text.
+
 For a more up-to-date way of doing this, see this <a href="https://data-analytic-nesta.slack.com/archives/CAYNV0XFZ/p1592820231035300">slack thread</a> (also <a href="https://docs.google.com/document/d/1nw9h_HzFknDcalXwrAzwF0SIlrNldZsl_w1zz0LNefg/edit?usp=sharing">here</a>).
