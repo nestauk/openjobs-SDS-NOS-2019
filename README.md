@@ -56,13 +56,13 @@ The aim of this work package was to illustrate how skills could be automatically
 For more information, see the <a href="https://drive.google.com/file/d/1HMO0NAeDtZA41rYK-loOii8N-eT45JMg/view?usp=sharing">final report</a>.
 
 ## Relevant information for DfE project
-1. Detection of near duplicates.
+### Detection of near duplicates.
 
 To identify near-duplicate NOS (that is, documents with a high amount of overlap - similar to plagiarism), we used a technique called <a href="https://en.wikipedia.org/wiki/Locality-sensitive_hashing">Locality Sensitive Hashing</a>. Specifically, we a) detected near duplicates and b) grouped them into non-overlapping groups (on the assumptions that such groups can be found exactly, and not that we have to find the best split into non-overlapping groups that approximate all the actual connections). A standalone version of the code used to do this can be found in the script <code>apply_LSH.ipynb</code>. Relevant functions have also been factored out in the script <code>lsh_func.py</code>.
 
 It is worth noting that, originally, this code was developed to work with short texts. Here we used it on long texts, but because the intention since the beginning was to have a human reviewing the results. It might need to be assessed for accuracy and, if needed, improved appropriately, if used on long texts with no human in the loop.
 
-2. Predictive model for Education and Experience requirements.
+### Predictive model for Education and Experience requirements.
 
 Online job advert data from Burning Glass was used for this project. Specifically, we were interested in leveraging information on education and experience requirements. However, only a small minority of job adverts had this information, so we built a predictive model to fill the gaps.
 
@@ -70,9 +70,9 @@ When predicting educational requirements, we classified each job advert into "pr
 
 The steps taken were:
 <ul>
-<il>Phase 1. Within all the job adverts, check which SOC codes are matched to the same education category more than 90% of the time. This gives a group of “matched” SOC code. Classify a job advert based on the most likely category for its SOC codes, if its SOC code belongs to the group identified above. Unclassified job adverts move to the next stage.</il>
-<il>Phase 2. For each unmatched SOC code, take its 10 most common job titles. For each job title, check if it’s matched to the same education category more than 90% of the time within the whole job adverts dataset. This gives a group of “matched” job titles. Classify a job advert based on the most likely category for its job titles, if its job titles belongs to the group identified above. Unclassified job adverts move to the next stage.</il>
-<il>Phase 3. Train a random forest classifier to predict the educational category for all the other job adverts. Use all the features described above as input features.</il>
+<li>Phase 1. Within all the job adverts, check which SOC codes are matched to the same education category more than 90% of the time. This gives a group of “matched” SOC code. Classify a job advert based on the most likely category for its SOC codes, if its SOC code belongs to the group identified above. Unclassified job adverts move to the next stage.</li>
+<li>Phase 2. For each unmatched SOC code, take its 10 most common job titles. For each job title, check if it’s matched to the same education category more than 90% of the time within the whole job adverts dataset. This gives a group of “matched” job titles. Classify a job advert based on the most likely category for its job titles, if its job titles belongs to the group identified above. Unclassified job adverts move to the next stage.</li>
+<li>Phase 3. Train a random forest classifier to predict the educational category for all the other job adverts. Use all the features described above as input features.</li>
 </ul>
 
 The same steps were used to predict experience requirements, split into three levels: Junior, Middle and Senior.
@@ -83,6 +83,6 @@ In the folder <code>results/classifier_experience_education</code> there are som
 
 The caveat is that, upon further reflection and with inputs from others, this approach would not be recommended, for ethical reasons. Specifically, estimating educational requirements for individual job adverts might solidify the "status quo". For example, since most data science jobs require a master at the moment then all data science jobs will be predicted to require a master, when it might/should not be the case.
 
-3. Finding exact occurrences of skills from pre-defined list within text.
+### Finding exact occurrences of skills from pre-defined list within text.
 
 For a more up-to-date way of doing this, see this <a href="https://data-analytic-nesta.slack.com/archives/CAYNV0XFZ/p1592820231035300">slack thread</a> (also <a href="https://docs.google.com/document/d/1nw9h_HzFknDcalXwrAzwF0SIlrNldZsl_w1zz0LNefg/edit?usp=sharing">here</a>).
