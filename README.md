@@ -56,9 +56,11 @@ The aim of this work package was to illustrate how skills could be automatically
 For more information, see the <a href="https://drive.google.com/file/d/1HMO0NAeDtZA41rYK-loOii8N-eT45JMg/view?usp=sharing">final report</a>.
 
 ## Relevant information for DfE project
-1. Detection of near duplicates. TODO
+1. Detection of near duplicates.
 
-Add where to find script and what to improve. Needs updating. Specifically, it was created to work with short texts originally. I used it on long texts, but because the intention since the beginning was to have a human reviewing the results. It might need to be assessed for accuracy and, if needed, changed if used on long texts with no human in the loop
+To identify near-duplicate NOS (that is, documents with a high amount of overlap - similar to plagiarism), we used a technique called <a href="https://en.wikipedia.org/wiki/Locality-sensitive_hashing">Locality Sensitive Hashing</a>. Specifically, we a) detected near duplicates and b) grouped them into non-overlapping groups (on the assumptions that such groups can be found exactly, and not that we have to find the best split into non-overlapping groups that approximate all the actual connections). A standalone version of the code used to do this can be found in the script <code>apply_LSH.ipynb</code>. Relevant functions have also been factored out in the script <code>lsh_func.py</code>.
+
+It is worth noting that, originally, this code was developed to work with short texts. Here we used it on long texts, but because the intention since the beginning was to have a human reviewing the results. It might need to be assessed for accuracy and, if needed, improved appropriately, if used on long texts with no human in the loop.
 
 2. Predictive model for Education and Experience requirements. TODO
 
