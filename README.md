@@ -43,17 +43,17 @@ The first part aimed at mapping commonalities among NOS and at measuring the sca
 <il> Group standards based on the similarity of their keywords. </il>
 </ul>
 
-For more information, see the <a href="https://drive.google.com/file/d/12cFDX6XpujaotMZqKrObRKy1dmXmzQfp/view?usp=sharing" final report</a>.
+For more information, see the <a href="https://drive.google.com/file/d/12cFDX6XpujaotMZqKrObRKy1dmXmzQfp/view?usp=sharing">final report</a>.
 
 ## Analysis of progression pathways
 The aim of this research project was to use NLP and Machine Learning to automatically organise groups of national occupational standards into progression pathways, which is currently a lengthy manual process. While there are many ways to define progression, here we assume that higher levels of progression are associated with more work experience, higher educational qualifications and greater earnings. Intuitively, more senior jobs and tasks often require advanced work experience and qualifications and offer higher levels of salary.
 
-For more information, see the <a href="https://drive.google.com/file/d/1rKNA2hIxNPBK1GzWazLzVXYx4UVDZ-BG/view?usp=sharing" final report</a>.
+For more information, see the <a href="https://drive.google.com/file/d/1rKNA2hIxNPBK1GzWazLzVXYx4UVDZ-BG/view?usp=sharing">final report</a>.
 
 ## Analysis of skill content of NOS
 The aim of this work package was to illustrate how skills could be automatically extracted from NOS descriptions using an extensive library of skills collected from multiple sources. We also evaluated the skill content of NOS to detect gaps in the coverage of skill domains. Potential gaps were analysed in terms of demand, market value and growth in demand for skills in the corresponding domains. These labour market indicators were derived from the first iteration of Nesta’s taxonomy of skills, built using online job adverts.
 
-For more information, see the <a href="https://drive.google.com/file/d/1HMO0NAeDtZA41rYK-loOii8N-eT45JMg/view?usp=sharing" final report</a>.
+For more information, see the <a href="https://drive.google.com/file/d/1HMO0NAeDtZA41rYK-loOii8N-eT45JMg/view?usp=sharing">final report</a>.
 
 ## Relevant information for DfE project
 1. Detection of near duplicates. TODO
@@ -64,4 +64,4 @@ ADD description from email. Add where to find some results and how to read them.
 Specifically, estimating educational requirement for individual job adverts might solidify the "status quo". For example, since most data science jobs require a master at the moment then all data science jobs will be predicted to require a master, when it might/should not be the case
 
 3. Finding exact occurrences of skills from pre-defined list within text.
-For a more up-to-date way of doing this, see this <a href="https://data-analytic-nesta.slack.com/archives/CAYNV0XFZ/p1592820231035300">slack thread</a> (also <a "href=https://docs.google.com/document/d/1nw9h_HzFknDcalXwrAzwF0SIlrNldZsl_w1zz0LNefg/edit?usp=sharing">here</a>).
+For a more up-to-date way of doing this, see this <a href="https://data-analytic-nesta.slack.com/archives/CAYNV0XFZ/p1592820231035300">slack thread</a> (also <a href="https://docs.google.com/document/d/1nw9h_HzFknDcalXwrAzwF0SIlrNldZsl_w1zz0LNefg/edit?usp=sharing">here</a>).
