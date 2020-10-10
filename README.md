@@ -62,10 +62,26 @@ To identify near-duplicate NOS (that is, documents with a high amount of overlap
 
 It is worth noting that, originally, this code was developed to work with short texts. Here we used it on long texts, but because the intention since the beginning was to have a human reviewing the results. It might need to be assessed for accuracy and, if needed, improved appropriately, if used on long texts with no human in the loop.
 
-2. Predictive model for Education and Experience requirements. TODO
+2. Predictive model for Education and Experience requirements.
 
-ADD description from email. Add where to find some scripts, results and how to read them. Add ethical caveats and why is not recommended.
-Specifically, estimating educational requirement for individual job adverts might solidify the "status quo". For example, since most data science jobs require a master at the moment then all data science jobs will be predicted to require a master, when it might/should not be the case
+Online job advert data from Burning Glass was used for this project. Specifically, we were interested in leveraging information on education and experience requirements. However, only a small minority of job adverts had this information, so we built a predictive model to fill the gaps.
+
+When predicting educational requirements, we classified each job advert into "pregraduate / graduate / postgraduate" (that is, a coarser discretisation of years-based educational requirements) based on several attributes of the job description. These were: job title, "skills" needed, salary, SOC code, whether it's based in London or not (the latter was to adjust for the "London wage").
+
+The steps taken were:
+<ul>
+<il>Phase 1. Within all the job adverts, check which SOC codes are matched to the same education category more than 90% of the time. This gives a group of “matched” SOC code. Classify a job advert based on the most likely category for its SOC codes, if its SOC code belongs to the group identified above. Unclassified job adverts move to the next stage.</il>
+<il>Phase 2. For each unmatched SOC code, take its 10 most common job titles. For each job title, check if it’s matched to the same education category more than 90% of the time within the whole job adverts dataset. This gives a group of “matched” job titles. Classify a job advert based on the most likely category for its job titles, if its job titles belongs to the group identified above. Unclassified job adverts move to the next stage.</il>
+<il>Phase 3. Train a random forest classifier to predict the educational category for all the other job adverts. Use all the features described above as input features.</il>
+</ul>
+
+The same steps were used to predict experience requirements, split into three levels: Junior, Middle and Senior.
+
+The code with the model can be found in <code>NOS_pathways_and_skills/bg_build_hybrid_finalmodel_fullcv.py</code>. Note that it will not run out-of-the-box, because some inputs are likely missing. I could not include all inputs because we can not use Burning Glass data anymore. However, hopefully is a useful starting point.
+
+In the folder <code>results/classifier_experience_education</code> there are some results from the model. For example, the file <code>finalmodel_occupations_matched_to_eduv2_category1_90_20190729.txt</code> shows which SOC codes were matched to which category of educational requirements and with what percentage. There are also txt files with the model performance compared to those of a 'dummy' classifier, as well as figures showing confusion matrices for the results.
+
+The caveat is that, upon further reflection and with inputs from others, this approach would not be recommended, for ethical reasons. Specifically, estimating educational requirements for individual job adverts might solidify the "status quo". For example, since most data science jobs require a master at the moment then all data science jobs will be predicted to require a master, when it might/should not be the case.
 
 3. Finding exact occurrences of skills from pre-defined list within text.
 
