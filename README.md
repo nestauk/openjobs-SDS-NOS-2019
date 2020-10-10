@@ -32,7 +32,7 @@ See instructions <a href="https://textract.readthedocs.io/en/stable/installation
 
 The data consists of the dataset of <a href= "https://www.ukstandards.org.uk/">National Occupational Standards</a> (NOS). A snapshot of the dataset as it was in June 2019 is available on this <a href="https://s3.console.aws.amazon.com/s3/buckets/open-jobs-lake/">S3 bucket</a> both in the original pdf format (folder 'national-occupational-standards-pdf') and in the extracted json format (folder 'national-occupational-standards-json/extracted-json'). A subset of NOS (the more recently developed ones) is also available in a cleaner json format (folder 'national-occupational-standards-json/new-json'). In theory, most (if not all) of the pdfs are also available <a href="https://www.ukstandards.org.uk/">online</a> (which might be useful to check for updates), but there is no API access that I know of.
 
-# Workflow
+# Research overview
 The project was split into three parts.
 
 ## Top level analysis and level of duplication
