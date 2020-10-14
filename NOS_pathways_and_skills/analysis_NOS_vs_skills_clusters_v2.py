@@ -16,10 +16,11 @@ It links all NOS to a skills cluster and computes some average stats per cluster
 
 '''
 
-matches_dir = '/Users/stefgarasto/Google Drive/Documents/results/NOS/nos_vs_skills/nos_vs_taxonomy'
+matches_dir = '/Users/stefgarasto/Google Drive/Documents/NR/NOS_project/NOS_results/nos_vs_skills/nos_vs_taxonomy'
+#'/Users/stefgarasto/Google Drive/Documents/results/NOS/nos_vs_skills/nos_vs_taxonomy'
 output_dir= matches_dir
 #checkpoint
-FIRST_RUN = False
+FIRST_RUN = True
 if FIRST_RUN:
     print('Setting up all the necessary structures')
     #get_ipython().run_line_magic('matplotlib', 'inline')
@@ -36,7 +37,7 @@ if FIRST_RUN:
     import time
     
     import matplotlib.gridspec as gridspec
-    from matplotlib.patches import mpatches #Rectangle
+    #from matplotlib.patches import mpatches #Rectangle
     import matplotlib.pyplot as plt
     
     from sklearn.feature_extraction.text import TfidfVectorizer
@@ -345,7 +346,11 @@ if SETUP:
     plt.style.use(['seaborn-darkgrid','seaborn-poster','ggplot'])
     
     #Get the NOS data 
-    df_nos = pd.read_pickle(lookup_dir + 'all_nos_input_for_nlp_{}.zip'.format(qualifier0))
+    try:
+        df_nos = pd.read_pickle(lookup_dir + 'all_nos_input_for_nlp_{}.zip'.format(qualifier0))
+    except:
+        lookup_dir = '../results/extracted/'
+        df_nos = pd.read_pickle(lookup_dir + 'all_nos_input_for_nlp_{}.zip'.format(qualifier0))
     
     # load the cleaned and tokenised dataset
     df_nos = df_nos.join(pd.read_pickle(lookup_dir + 
@@ -407,7 +412,7 @@ if SETUP:
     #transferable_nos['transferable'] = True
 
     # load duplicated NOS
-    lshduplicate_file = ''.join(['/Users/stefgarasto/Google Drive/Documents/results/NOS/nlp_analysis/',
+    lshduplicate_file = ''.join(['../results/nlp_analysis/',
              'LSH_results_grouped_with_score_postjoining_final_no_dropped_th0.8.csv'])
     lshduplicate_nos = pd.read_csv(lshduplicate_file)
     
@@ -426,7 +431,7 @@ if SETUP:
         tmp = tmp0[['Unnamed: 0','Avg group similarity','{}'.format(i)]].rename(columns = {'{}'.format(i):'1'})
         tmp = tmp[tmp['1'].notna()]
         df_nos_lsh = pd.concat([df_nos_lsh, tmp])
-    print_elapsed(t0, 'assigning LSH groups to NOS')
+    #print_elapsed(t0, 'assigning LSH groups to NOS')
 
     #%% Join LSH groups and transferable NOS
     df_nos2 = df_nos.join(df_nos_lsh.rename(columns = {'Unnamed: 0': 'lsh_group', 
@@ -871,10 +876,11 @@ if EXTRACT_SKILLS:
 
     #%%
     # find matches
-    LOAD_MATCHES = False
-    exists = os.path.isfile(matches_dir + '/exact_matches_in_nos.pickle')
+    LOAD_MATCHES = True
+    matches_dir0 = '/Users/stefgarasto/Google Drive/Documents/scripts/NOS/results/nos_vs_taxonomy'
+    exists = os.path.isfile(matches_dir0 + '/exact_matches_in_nos.pickle')
     if LOAD_MATCHES and exists:
-        with open(matches_dir + '/exact_matches_in_nos_with_emsi.pickle','rb') as f:
+        with open(matches_dir0 + '/exact_matches_in_nos_with_emsi.pickle','rb') as f:
             all_exact_matches_nos,df_nos_indices = pickle.load(f)
     else:
         all_exact_matches_nos = exact_skills_from_standards(df_nos2, 'external')

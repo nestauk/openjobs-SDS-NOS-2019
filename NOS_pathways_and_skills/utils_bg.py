@@ -140,7 +140,7 @@ def getlondonflag(x):
 
 #%%
 ''' put here stuff about supersuites and soc codes'''
-socnames_file = '/Users/stefgarasto/Google Drive/Documents/data/ONS/' \
+socnames_file = '/Users/stefgarasto/Google Drive/Documents/scripts/NOS/data/ONS/' \
     + 'soc2010indexversion705june2018.xls'
 socnames = pd.read_excel(socnames_file, sheet_name = 'SOC2010 Structure')
 soccolnames = {1: 'Major Group', 2:'Sub-Major Group', 3: 'Minor Group',
@@ -162,8 +162,8 @@ super_suites_colours = {'management': nesta_colours[1],
 #%% Load SOC codes of interest
 soc_list_file = os.path.join('/Users/stefgarasto/Google Drive/Documents/results/',
                              'NOS/notes/soc_codes_list_for_bg.pickle')
-with open(soc_list_file,'rb') as f:
-    total_socs4,total_socs3, soc4dist, soc3dist = pickle.load(f)
+#with open(soc_list_file,'rb') as f:
+#    total_socs4,total_socs3, soc4dist, soc3dist = pickle.load(f)
 
 #%%
 

@@ -23,7 +23,7 @@ from copy import deepcopy
 #%%
 # load the skills matched to a cluster
 # save the final dataframe
-matches_dir = '/Users/stefgarasto/Google Drive/Documents/results/NOS/nos_vs_skills/nos_vs_taxonomy'
+matches_dir = '/Users/stefgarasto/Google Drive/Documents/scripts/NOS/results/nos_vs_taxonomy/'
 with open(matches_dir + '/final_matches_nesta_vs_ext.pickle','rb') as f:
     skills_matches_consensus_ext = pickle.load(f)
 
@@ -48,7 +48,7 @@ skills_matches_consensus2 = skills_matches_consensus2.drop_duplicates()
 
 #%% put lemmatised skills in their own dataframe
 #new_skills_lemmas = skills_matches_consensus2['lemmatised'].map
-skills_lemmas = skills_matches_consensus2.reset_index().rename(
+skills_lemmas = skills_matches_consensus2.reset_index().drop('original_skill', axis=1).rename(
         columns={'index': 'original_skill'}).rename(
         columns={'lemmatised':'index'})[['consensus_cluster','index','original_skill']]
 skills_lemmas = skills_lemmas.set_index('index')
